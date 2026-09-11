@@ -1,0 +1,2456 @@
+{
+  "top14_2026": {
+    "J1": {
+      "dates": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "RC Toulon",
+          "homeCode": "AB",
+          "awayCode": "RCT",
+          "date": "2026-09-05T17:05:00+0000",
+          "heure": "19:05:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": 27,
+          "scoreExt": 26,
+          "statut": "Result"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Vannes",
+          "homeCode": "CO",
+          "awayCode": "RCV",
+          "date": "2026-09-05T17:05:00+0000",
+          "heure": "19:05:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": 29,
+          "scoreExt": 20,
+          "statut": "Result"
+        },
+        {
+          "home": "Lyon",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "LOU",
+          "awayCode": "ASM",
+          "date": "2026-09-05T17:05:00+0000",
+          "heure": "19:05:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": 40,
+          "scoreExt": 36,
+          "statut": "Result"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Section Paloise",
+          "homeCode": "MHR",
+          "awayCode": "SP",
+          "date": "2026-09-05T17:05:00+0000",
+          "heure": "19:05:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": 19,
+          "scoreExt": 27,
+          "statut": "Result"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "USAP",
+          "homeCode": "SFP",
+          "awayCode": "USAP",
+          "date": "2026-09-05T17:05:00+0000",
+          "heure": "19:05:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": 28,
+          "scoreExt": 26,
+          "statut": "Result"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Racing 92",
+          "homeCode": "UBB",
+          "awayCode": "R92",
+          "date": "2026-09-05T19:15:00+0000",
+          "heure": "21:15:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": 64,
+          "scoreExt": 5,
+          "statut": "Result"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Stade Toulousain",
+          "homeCode": "SR",
+          "awayCode": "ST",
+          "date": "2026-09-06T19:05:00+0000",
+          "heure": "21:05:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": 30,
+          "scoreExt": 27,
+          "statut": "Result"
+        }
+      ]
+    },
+    "J2": {
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Castres Olympique",
+          "homeCode": "USAP",
+          "awayCode": "CO",
+          "date": "2026-09-12T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "RCV",
+          "awayCode": "MHR",
+          "date": "2026-09-12T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Stade Francais Paris",
+          "homeCode": "ASM",
+          "awayCode": "SFP",
+          "date": "2026-09-12T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Bayonne",
+          "homeCode": "SP",
+          "awayCode": "AB",
+          "date": "2026-09-12T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Lyon",
+          "homeCode": "R92",
+          "awayCode": "LOU",
+          "date": "2026-09-12T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Dominique Duvauchelle",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Stade Rochelais",
+          "homeCode": "RCT",
+          "awayCode": "SR",
+          "date": "2026-09-12T19:00:00+0000",
+          "heure": "21:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "ST",
+          "awayCode": "UBB",
+          "date": "2026-09-13T19:05:00+0000",
+          "heure": "21:05:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J3": {
+      "dates": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "matches": [
+        {
+          "home": "Castres Olympique",
+          "away": "RC Toulon",
+          "homeCode": "CO",
+          "awayCode": "RCT",
+          "date": "2026-09-19T12:30:00+0000",
+          "heure": "14:30:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Bayonne",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "AB",
+          "awayCode": "ASM",
+          "date": "2026-09-19T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Racing 92",
+          "homeCode": "SR",
+          "awayCode": "R92",
+          "date": "2026-09-19T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Section Paloise",
+          "homeCode": "LOU",
+          "awayCode": "SP",
+          "date": "2026-09-19T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "USAP",
+          "homeCode": "MHR",
+          "awayCode": "USAP",
+          "date": "2026-09-19T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Stade Toulousain",
+          "homeCode": "RCV",
+          "awayCode": "ST",
+          "date": "2026-09-19T19:00:00+0000",
+          "heure": "21:00:00",
+          "stade": "Roazhon Park",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Stade Francais Paris",
+          "homeCode": "UBB",
+          "awayCode": "SFP",
+          "date": "2026-09-20T19:05:00+0000",
+          "heure": "21:05:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J4": {
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "USAP",
+          "awayCode": "UBB",
+          "date": "2026-09-26T12:30:00+0000",
+          "heure": "14:30:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Castres Olympique",
+          "homeCode": "ASM",
+          "awayCode": "CO",
+          "date": "2026-09-26T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Lyon",
+          "homeCode": "SFP",
+          "awayCode": "LOU",
+          "date": "2026-09-26T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Bayonne",
+          "homeCode": "R92",
+          "awayCode": "AB",
+          "date": "2026-09-26T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Vannes",
+          "homeCode": "RCT",
+          "awayCode": "RCV",
+          "date": "2026-09-26T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Stade Rochelais",
+          "homeCode": "SP",
+          "awayCode": "SR",
+          "date": "2026-09-26T19:00:00+0000",
+          "heure": "21:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "ST",
+          "awayCode": "MHR",
+          "date": "2026-09-27T19:05:00+0000",
+          "heure": "21:05:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J5": {
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "matches": [
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Lyon",
+          "homeCode": "UBB",
+          "awayCode": "LOU",
+          "date": "2026-10-03T12:30:00+0000",
+          "heure": "14:30:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Bayonne",
+          "away": "Stade Francais Paris",
+          "homeCode": "AB",
+          "awayCode": "SFP",
+          "date": "2026-10-03T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Section Paloise",
+          "homeCode": "RCV",
+          "awayCode": "SP",
+          "date": "2026-10-03T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "SR",
+          "awayCode": "ASM",
+          "date": "2026-10-03T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "USAP",
+          "homeCode": "R92",
+          "awayCode": "USAP",
+          "date": "2026-10-03T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Stade Toulousain",
+          "homeCode": "CO",
+          "awayCode": "ST",
+          "date": "2026-10-03T19:00:00+0000",
+          "heure": "21:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "RC Toulon",
+          "homeCode": "MHR",
+          "awayCode": "RCT",
+          "date": "2026-10-04T19:05:00+0000",
+          "heure": "21:05:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J6": {
+      "dates": [
+        "2026-10-10"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Vannes",
+          "homeCode": "USAP",
+          "awayCode": "RCV",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "ASM",
+          "awayCode": "UBB",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Stade Rochelais",
+          "homeCode": "LOU",
+          "awayCode": "SR",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "SFP",
+          "awayCode": "MHR",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Castres Olympique",
+          "homeCode": "SP",
+          "awayCode": "CO",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Racing 92",
+          "homeCode": "RCT",
+          "awayCode": "R92",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Bayonne",
+          "homeCode": "ST",
+          "awayCode": "AB",
+          "date": "2026-10-10T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J7": {
+      "dates": [
+        "2026-10-24"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Lyon",
+          "homeCode": "AB",
+          "awayCode": "LOU",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "RCV",
+          "awayCode": "ASM",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Stade Francais Paris",
+          "homeCode": "CO",
+          "awayCode": "SFP",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "SR",
+          "awayCode": "UBB",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "R92",
+          "awayCode": "MHR",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Section Paloise",
+          "homeCode": "RCT",
+          "awayCode": "SP",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "USAP",
+          "homeCode": "ST",
+          "awayCode": "USAP",
+          "date": "2026-10-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J8": {
+      "dates": [
+        "2026-10-31"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "RC Toulon",
+          "homeCode": "USAP",
+          "awayCode": "RCT",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Bayonne",
+          "homeCode": "UBB",
+          "awayCode": "AB",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Racing 92",
+          "homeCode": "ASM",
+          "awayCode": "R92",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Vannes",
+          "homeCode": "LOU",
+          "awayCode": "RCV",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Castres Olympique",
+          "homeCode": "MHR",
+          "awayCode": "CO",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Stade Rochelais",
+          "homeCode": "SFP",
+          "awayCode": "SR",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Stade Toulousain",
+          "homeCode": "SP",
+          "awayCode": "ST",
+          "date": "2026-10-31T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J9": {
+      "dates": [
+        "2026-11-07"
+      ],
+      "matches": [
+        {
+          "home": "Vannes",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "RCV",
+          "awayCode": "UBB",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Racing 92",
+          "homeCode": "CO",
+          "awayCode": "R92",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Bayonne",
+          "homeCode": "SR",
+          "awayCode": "AB",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Lyon",
+          "homeCode": "MHR",
+          "awayCode": "LOU",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "USAP",
+          "homeCode": "SP",
+          "awayCode": "USAP",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Stade Francais Paris",
+          "homeCode": "RCT",
+          "awayCode": "SFP",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "ST",
+          "awayCode": "ASM",
+          "date": "2026-11-07T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J10": {
+      "dates": [
+        "2026-11-28"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Castres Olympique",
+          "homeCode": "AB",
+          "awayCode": "CO",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "UBB",
+          "awayCode": "MHR",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "RC Toulon",
+          "homeCode": "ASM",
+          "awayCode": "RCT",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "USAP",
+          "homeCode": "SR",
+          "awayCode": "USAP",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Stade Toulousain",
+          "homeCode": "LOU",
+          "awayCode": "ST",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Vannes",
+          "homeCode": "SFP",
+          "awayCode": "RCV",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Section Paloise",
+          "homeCode": "R92",
+          "awayCode": "SP",
+          "date": "2026-11-28T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J11": {
+      "dates": [
+        "2026-12-05"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "USAP",
+          "awayCode": "ASM",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Bayonne",
+          "homeCode": "RCV",
+          "awayCode": "AB",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Lyon",
+          "homeCode": "CO",
+          "awayCode": "LOU",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Stade Rochelais",
+          "homeCode": "MHR",
+          "awayCode": "SR",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Stade Francais Paris",
+          "homeCode": "SP",
+          "awayCode": "SFP",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "RCT",
+          "awayCode": "UBB",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Racing 92",
+          "homeCode": "ST",
+          "awayCode": "R92",
+          "date": "2026-12-05T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J12": {
+      "dates": [
+        "2026-12-19"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "USAP",
+          "homeCode": "AB",
+          "awayCode": "USAP",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Section Paloise",
+          "homeCode": "UBB",
+          "awayCode": "SP",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "ASM",
+          "awayCode": "MHR",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Castres Olympique",
+          "homeCode": "SR",
+          "awayCode": "CO",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "RC Toulon",
+          "homeCode": "LOU",
+          "awayCode": "RCT",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Stade Toulousain",
+          "homeCode": "SFP",
+          "awayCode": "ST",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Vannes",
+          "homeCode": "R92",
+          "awayCode": "RCV",
+          "date": "2026-12-19T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J13": {
+      "dates": [
+        "2026-12-26"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Lyon",
+          "homeCode": "USAP",
+          "awayCode": "LOU",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Stade Rochelais",
+          "homeCode": "RCV",
+          "awayCode": "SR",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "CO",
+          "awayCode": "UBB",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Bayonne",
+          "homeCode": "MHR",
+          "awayCode": "AB",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "SP",
+          "awayCode": "ASM",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Stade Francais Paris",
+          "homeCode": "R92",
+          "awayCode": "SFP",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "RC Toulon",
+          "homeCode": "ST",
+          "awayCode": "RCT",
+          "date": "2026-12-26T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J14": {
+      "dates": [
+        "2027-01-02"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Stade Toulousain",
+          "homeCode": "AB",
+          "awayCode": "ST",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "USAP",
+          "homeCode": "UBB",
+          "awayCode": "USAP",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Vannes",
+          "homeCode": "ASM",
+          "awayCode": "RCV",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Section Paloise",
+          "homeCode": "SR",
+          "awayCode": "SP",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Racing 92",
+          "homeCode": "LOU",
+          "awayCode": "R92",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Castres Olympique",
+          "homeCode": "SFP",
+          "awayCode": "CO",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "RCT",
+          "awayCode": "MHR",
+          "date": "2027-01-02T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J15": {
+      "dates": [
+        "2027-01-23"
+      ],
+      "matches": [
+        {
+          "home": "Vannes",
+          "away": "USAP",
+          "homeCode": "RCV",
+          "awayCode": "USAP",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "CO",
+          "awayCode": "ASM",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Stade Francais Paris",
+          "homeCode": "MHR",
+          "awayCode": "SFP",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Lyon",
+          "homeCode": "SP",
+          "awayCode": "LOU",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "R92",
+          "awayCode": "UBB",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Bayonne",
+          "homeCode": "RCT",
+          "awayCode": "AB",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Stade Rochelais",
+          "homeCode": "ST",
+          "awayCode": "SR",
+          "date": "2027-01-23T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J16": {
+      "dates": [
+        "2027-01-30"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Stade Francais Paris",
+          "homeCode": "USAP",
+          "awayCode": "SFP",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Vannes",
+          "homeCode": "UBB",
+          "awayCode": "RCV",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Stade Toulousain",
+          "homeCode": "ASM",
+          "awayCode": "ST",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "RC Toulon",
+          "homeCode": "SR",
+          "awayCode": "RCT",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Bayonne",
+          "homeCode": "LOU",
+          "awayCode": "AB",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "SP",
+          "awayCode": "MHR",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Castres Olympique",
+          "homeCode": "R92",
+          "awayCode": "CO",
+          "date": "2027-01-30T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J17": {
+      "dates": [
+        "2027-02-20"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Stade Rochelais",
+          "homeCode": "AB",
+          "awayCode": "SR",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "USAP",
+          "away": "Section Paloise",
+          "homeCode": "USAP",
+          "awayCode": "SP",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Castres Olympique",
+          "homeCode": "RCV",
+          "awayCode": "CO",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Racing 92",
+          "homeCode": "MHR",
+          "awayCode": "R92",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "SFP",
+          "awayCode": "UBB",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "RCT",
+          "awayCode": "ASM",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Lyon",
+          "homeCode": "ST",
+          "awayCode": "LOU",
+          "date": "2027-02-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J18": {
+      "dates": [
+        "2027-02-27"
+      ],
+      "matches": [
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "RC Toulon",
+          "homeCode": "UBB",
+          "awayCode": "RCT",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "USAP",
+          "homeCode": "CO",
+          "awayCode": "USAP",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Bayonne",
+          "homeCode": "ASM",
+          "awayCode": "AB",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Stade Francais Paris",
+          "homeCode": "SR",
+          "awayCode": "SFP",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "LOU",
+          "awayCode": "MHR",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Vannes",
+          "homeCode": "SP",
+          "awayCode": "RCV",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Stade Toulousain",
+          "homeCode": "R92",
+          "awayCode": "ST",
+          "date": "2027-02-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J19": {
+      "dates": [
+        "2027-03-20"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "AB",
+          "awayCode": "UBB",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "USAP",
+          "away": "Racing 92",
+          "homeCode": "USAP",
+          "awayCode": "R92",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Stade Rochelais",
+          "homeCode": "CO",
+          "awayCode": "SR",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "MHR",
+          "awayCode": "ASM",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Section Paloise",
+          "homeCode": "SFP",
+          "awayCode": "SP",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Lyon",
+          "homeCode": "RCT",
+          "awayCode": "LOU",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Vannes",
+          "homeCode": "ST",
+          "awayCode": "RCV",
+          "date": "2027-03-20T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J20": {
+      "dates": [
+        "2027-03-27"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "AB",
+          "awayCode": "MHR",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "USAP",
+          "away": "Stade Rochelais",
+          "homeCode": "USAP",
+          "awayCode": "SR",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Stade Toulousain",
+          "homeCode": "UBB",
+          "awayCode": "ST",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Stade Francais Paris",
+          "homeCode": "RCV",
+          "awayCode": "SFP",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Section Paloise",
+          "homeCode": "ASM",
+          "awayCode": "SP",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Castres Olympique",
+          "homeCode": "LOU",
+          "awayCode": "CO",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "RC Toulon",
+          "homeCode": "R92",
+          "awayCode": "RCT",
+          "date": "2027-03-27T00:00:00+0000",
+          "heure": "01:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J21": {
+      "dates": [
+        "2027-04-17"
+      ],
+      "matches": [
+        {
+          "home": "Castres Olympique",
+          "away": "Bayonne",
+          "homeCode": "CO",
+          "awayCode": "AB",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Vannes",
+          "homeCode": "SR",
+          "awayCode": "RCV",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "USAP",
+          "homeCode": "LOU",
+          "awayCode": "USAP",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "MHR",
+          "awayCode": "UBB",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "SFP",
+          "awayCode": "ASM",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Racing 92",
+          "homeCode": "SP",
+          "awayCode": "R92",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Stade Toulousain",
+          "homeCode": "RCT",
+          "awayCode": "ST",
+          "date": "2027-04-17T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J22": {
+      "dates": [
+        "2027-04-24"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Section Paloise",
+          "homeCode": "AB",
+          "awayCode": "SP",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "USAP",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "USAP",
+          "awayCode": "MHR",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Stade Rochelais",
+          "homeCode": "UBB",
+          "awayCode": "SR",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "RC Toulon",
+          "homeCode": "RCV",
+          "awayCode": "RCT",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Lyon",
+          "homeCode": "ASM",
+          "awayCode": "LOU",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Racing 92",
+          "homeCode": "SFP",
+          "awayCode": "R92",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Castres Olympique",
+          "homeCode": "ST",
+          "awayCode": "CO",
+          "date": "2027-04-24T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J23": {
+      "dates": [
+        "2027-05-08"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Vannes",
+          "homeCode": "AB",
+          "awayCode": "RCV",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "USAP",
+          "homeCode": "ASM",
+          "awayCode": "USAP",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Stade Francais Paris",
+          "homeCode": "LOU",
+          "awayCode": "SFP",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Stade Toulousain",
+          "homeCode": "MHR",
+          "awayCode": "ST",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "SP",
+          "awayCode": "UBB",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "Stade Rochelais",
+          "homeCode": "R92",
+          "awayCode": "SR",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "Castres Olympique",
+          "homeCode": "RCT",
+          "awayCode": "CO",
+          "date": "2027-05-08T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J24": {
+      "dates": [
+        "2027-05-15"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Bayonne",
+          "homeCode": "USAP",
+          "awayCode": "AB",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "UBB",
+          "awayCode": "ASM",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Racing 92",
+          "homeCode": "RCV",
+          "awayCode": "R92",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "CO",
+          "awayCode": "MHR",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Lyon",
+          "homeCode": "SR",
+          "awayCode": "LOU",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "RC Toulon",
+          "homeCode": "SFP",
+          "awayCode": "RCT",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Section Paloise",
+          "homeCode": "ST",
+          "awayCode": "SP",
+          "date": "2027-05-15T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J25": {
+      "dates": [
+        "2027-05-29"
+      ],
+      "matches": [
+        {
+          "home": "Bayonne",
+          "away": "Racing 92",
+          "homeCode": "AB",
+          "awayCode": "R92",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Dauger",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Castres Olympique",
+          "away": "Section Paloise",
+          "homeCode": "CO",
+          "awayCode": "SP",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Pierre Fabre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Stade Rochelais",
+          "homeCode": "ASM",
+          "awayCode": "SR",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel Michelin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Lyon",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "LOU",
+          "awayCode": "UBB",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Matmut Stadium de Gerland",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Montpellier Herault Rugby",
+          "away": "Vannes",
+          "homeCode": "MHR",
+          "awayCode": "RCV",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Septeo Stadium",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "RC Toulon",
+          "away": "USAP",
+          "homeCode": "RCT",
+          "awayCode": "USAP",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Toulousain",
+          "away": "Stade Francais Paris",
+          "homeCode": "ST",
+          "awayCode": "SFP",
+          "date": "2027-05-29T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Ernest-Wallon",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J26": {
+      "dates": [
+        "2027-06-05"
+      ],
+      "matches": [
+        {
+          "home": "USAP",
+          "away": "Stade Toulousain",
+          "homeCode": "USAP",
+          "awayCode": "ST",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Aime Giral",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Union Bordeaux-Begles",
+          "away": "Castres Olympique",
+          "homeCode": "UBB",
+          "awayCode": "CO",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Chaban-Delmas",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Vannes",
+          "away": "Lyon",
+          "homeCode": "RCV",
+          "awayCode": "LOU",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade de la Rabine",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Rochelais",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "SR",
+          "awayCode": "MHR",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Marcel-Deflandre",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Stade Francais Paris",
+          "away": "Bayonne",
+          "homeCode": "SFP",
+          "awayCode": "AB",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Jean Bouin",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Section Paloise",
+          "away": "RC Toulon",
+          "homeCode": "SP",
+          "awayCode": "RCT",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade du Hameau",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "Racing 92",
+          "away": "ASM Clermont Auvergne",
+          "homeCode": "R92",
+          "awayCode": "ASM",
+          "date": "2027-06-05T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Paris La Defense Arena",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J27": {
+      "dates": [
+        "2027-06-12"
+      ],
+      "matches": [
+        {
+          "home": "TBC",
+          "away": "TBC",
+          "homeCode": "TBC",
+          "awayCode": "TBC",
+          "date": "2027-06-12T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": null,
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "TBC",
+          "away": "TBC",
+          "homeCode": "TBC",
+          "awayCode": "TBC",
+          "date": "2027-06-12T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": null,
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J28": {
+      "dates": [
+        "2027-06-19"
+      ],
+      "matches": [
+        {
+          "home": "TBC",
+          "away": "TBC",
+          "homeCode": "TBC",
+          "awayCode": "TBC",
+          "date": "2027-06-19T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Atlantique",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "TBC",
+          "away": "TBC",
+          "homeCode": "TBC",
+          "awayCode": "TBC",
+          "date": "2027-06-19T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade Atlantique",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    },
+    "J29": {
+      "dates": [
+        "2027-06-26"
+      ],
+      "matches": [
+        {
+          "home": "TBC",
+          "away": "TBC",
+          "homeCode": "TBC",
+          "awayCode": "TBC",
+          "date": "2027-06-26T00:00:00+0000",
+          "heure": "02:00:00",
+          "stade": "Stade de France",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1160,
+    "nom": "Willis",
+    "prenom": "Tom",
+    "club": "UBB",
+    "couleur": "#5a2432",
+    "poste": "N8",
+    "note": 94.47,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 929,
+    "nom": "Martin",
+    "prenom": "Lucas",
+    "club": "AB",
+    "couleur": "#6dbce3",
+    "poste": "TAL",
+    "note": 90.97,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 44,
+    "nom": "Perchaud",
+    "prenom": "Matis",
+    "club": "UBB",
+    "couleur": "#5a2432",
+    "poste": "PIL",
+    "note": 90.26,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 11,
+    "nom": "Woki",
+    "prenom": "Cameron",
+    "club": "UBB",
+    "couleur": "#5a2432",
+    "poste": "TL",
+    "note": 90.17,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 1235,
+    "nom": "Marta",
+    "prenom": "Rodrigo",
+    "club": "SP",
+    "couleur": "#043424",
+    "poste": "AIL",
+    "note": 89.58,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 456,
+    "nom": "De Benedittis",
+    "prenom": "Wayan",
+    "club": "RCV",
+    "couleur": "#ffffff",
+    "poste": "PIL",
+    "note": 89.14,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 525,
+    "nom": "Halaifonua",
+    "prenom": "Tanginoa",
+    "club": "SFP",
+    "couleur": "#fa81b7",
+    "poste": "TL",
+    "note": 87.49,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 910,
+    "nom": "Capilla",
+    "prenom": "Esteban",
+    "club": "AB",
+    "couleur": "#6dbce3",
+    "poste": "TL",
+    "note": 86.98,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 417,
+    "nom": "Desjeux",
+    "prenom": "Matteo",
+    "club": "RCV",
+    "couleur": "#ffffff",
+    "poste": "DL",
+    "note": 86.79,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 703,
+    "nom": "Akhaladze",
+    "prenom": "Giorgi",
+    "club": "ASM",
+    "couleur": "#f2c415",
+    "poste": "PIL",
+    "note": 86.47,
+    "note_prec": null,
+    "delta": null
+  }
+]

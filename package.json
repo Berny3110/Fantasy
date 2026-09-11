@@ -1,0 +1,14 @@
+{
+  "name": "fantasy-rugby-assistant",
+  "version": "1.0.0",
+  "description": "Assistant de composition et optimisation Fantasy Rugby Top 14",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "sync": "node scripts/sync.mjs"
+  },
+  "keywords": ["fantasy", "rugby", "top14"],
+  "author": "",
+  "license": "ISC"
+}
+
