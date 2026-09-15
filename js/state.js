@@ -39,7 +39,7 @@ export const CLUB_ALIASES = {
   SR:   ['stade rochelais','la rochelle','rochelais'],
   ST:   ['stade toulousain','toulouse'],
   UBB:  ['union bordeaux-begles','union bordeaux begles','bordeaux begles','bordeaux'],
-  USAP: ['usa perpignan','perpignan'],
+  USAP: ['usa perpignan','perpignan', 'usap'],
 };
 
 export const state = {
