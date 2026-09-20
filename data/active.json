@@ -1,9 +1,8 @@
 {
-  "journee": 2,
-  "updatedAt": "2026-09-11T16:08:00.000Z",
-  "playersFile": "players_J2.json",
-  "feuillesFile": "feuilles_J2.json",
-  "formeFile": "forme_J1.json",
+  "journee": 3,
+  "updatedAt": "2026-09-20T17:25:50.012Z",
+  "playersFile": "players_J3.json",
+  "feuillesFile": "feuilles_J3.json",
+  "formeFile": "forme_J3.json",
   "calendrierFile": "calendrier.json"
 }
-

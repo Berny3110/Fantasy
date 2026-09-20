@@ -17,7 +17,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "1.05",
-    "moyenne": 75.74
+    "moyenne": 79.795
   },
   {
     "id": 773,
@@ -37,7 +37,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "1.05",
-    "moyenne": null
+    "moyenne": 76.39
   },
   {
     "id": 816,
@@ -57,7 +57,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.96",
-    "moyenne": 54.37
+    "moyenne": 68.34333333333333
   },
   {
     "id": 825,
@@ -77,7 +77,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.93",
-    "moyenne": 83.76
+    "moyenne": 73.915
   },
   {
     "id": 1009,
@@ -107,7 +107,7 @@
     "poste": "AIL",
     "poste_secondaire": "ARR",
     "poste_tertiaire": "CEN",
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 186,
     "poids_kg": 90,
     "pilier_cote": null,
@@ -137,7 +137,27 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.91",
-    "moyenne": 76.8
+    "moyenne": 70.885
+  },
+  {
+    "id": 670,
+    "prenom": "Tom",
+    "nom": "Staniforth",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 198,
+    "poids_kg": 124,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.91",
+    "moyenne": 82.575
   },
   {
     "id": 38,
@@ -157,7 +177,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.90",
-    "moyenne": 85.31
+    "moyenne": 66.695
   },
   {
     "id": 338,
@@ -177,27 +197,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.90",
-    "moyenne": 65.9
-  },
-  {
-    "id": 670,
-    "prenom": "Tom",
-    "nom": "Staniforth",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 198,
-    "poids_kg": 124,
-    "pilier_cote": null,
-    "dl_cote": "5",
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.90",
-    "moyenne": null
+    "moyenne": 70.115
   },
   {
     "id": 179,
@@ -217,7 +217,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.90",
-    "moyenne": 67.72
+    "moyenne": 64.33
   },
   {
     "id": 335,
@@ -227,7 +227,7 @@
     "poste": "DM",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 175,
     "poids_kg": 75,
     "pilier_cote": null,
@@ -237,7 +237,27 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.89",
-    "moyenne": 78.43
+    "moyenne": 75.44
+  },
+  {
+    "id": 778,
+    "prenom": "Julien",
+    "nom": "Marchand",
+    "nationalite": "FRA",
+    "poste": "TAL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 181,
+    "poids_kg": 110,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.89",
+    "moyenne": 78
   },
   {
     "id": 819,
@@ -257,7 +277,47 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.89",
-    "moyenne": 44.28
+    "moyenne": 58.735
+  },
+  {
+    "id": 990,
+    "prenom": "Florian",
+    "nom": "Verhaeghe",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": "TL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 203,
+    "poids_kg": 110,
+    "pilier_cote": null,
+    "dl_cote": "4",
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.89",
+    "moyenne": 81.44
+  },
+  {
+    "id": 755,
+    "prenom": "Antoine",
+    "nom": "Dupont",
+    "nationalite": "FRA",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 175,
+    "poids_kg": 85,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.88",
+    "moyenne": 76.70666666666666
   },
   {
     "id": 688,
@@ -277,67 +337,27 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.88",
-    "moyenne": 50.07
+    "moyenne": 63.09
   },
   {
-    "id": 778,
-    "prenom": "Julien",
-    "nom": "Marchand",
-    "nationalite": "FRA",
-    "poste": "TAL",
+    "id": 1211,
+    "prenom": "Huw",
+    "nom": "Jones",
+    "nationalite": "ECO",
+    "poste": "CEN",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 110,
+    "taille_cm": null,
+    "poids_kg": null,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.88",
-    "moyenne": 68.98
-  },
-  {
-    "id": 990,
-    "prenom": "Florian",
-    "nom": "Verhaeghe",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": "TL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 203,
-    "poids_kg": 110,
-    "pilier_cote": null,
-    "dl_cote": "4",
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.88",
-    "moyenne": 78.88
-  },
-  {
-    "id": 755,
-    "prenom": "Antoine",
-    "nom": "Dupont",
-    "nationalite": "FRA",
-    "poste": "DM",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 175,
-    "poids_kg": 85,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.87",
-    "moyenne": 78.7
+    "moyenne": 63.946666666666665
   },
   {
     "id": 1238,
@@ -347,7 +367,7 @@
     "poste": "CEN",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -377,27 +397,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.86",
-    "moyenne": 85.1
-  },
-  {
-    "id": 1211,
-    "prenom": "Huw",
-    "nom": "Jones",
-    "nationalite": "ECO",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.86",
-    "moyenne": 52.61
+    "moyenne": 70.19
   },
   {
     "id": 768,
@@ -417,7 +417,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.86",
-    "moyenne": 64.9
+    "moyenne": 62.64333333333333
   },
   {
     "id": 706,
@@ -437,7 +437,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.86",
-    "moyenne": 79.46
+    "moyenne": 73.89
   },
   {
     "id": 90,
@@ -460,6 +460,66 @@
     "moyenne": null
   },
   {
+    "id": 253,
+    "prenom": "Jiuta",
+    "nom": "Wainiqolo",
+    "nationalite": "FIJ",
+    "poste": "AIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 97,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.86",
+    "moyenne": 87.46
+  },
+  {
+    "id": 159,
+    "prenom": "Demba",
+    "nom": "Bamba",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 185,
+    "poids_kg": 125,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.85",
+    "moyenne": 78.73666666666666
+  },
+  {
+    "id": 834,
+    "prenom": "Fabien",
+    "nom": "Brau Boirie",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 190,
+    "poids_kg": 94,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.85",
+    "moyenne": 76.025
+  },
+  {
     "id": 105,
     "prenom": "Jean-Baptiste",
     "nom": "Gros",
@@ -477,7 +537,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.85",
-    "moyenne": null
+    "moyenne": 69.665
   },
   {
     "id": 775,
@@ -487,7 +547,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 194,
     "poids_kg": 135,
     "pilier_cote": "3",
@@ -497,7 +557,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.85",
-    "moyenne": null
+    "moyenne": 65.95
   },
   {
     "id": 286,
@@ -507,7 +567,7 @@
     "poste": "N8",
     "poste_secondaire": "TL",
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 184,
     "poids_kg": 108,
     "pilier_cote": null,
@@ -517,7 +577,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.85",
-    "moyenne": null
+    "moyenne": 81.625
   },
   {
     "id": 982,
@@ -537,7 +597,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.85",
-    "moyenne": null
+    "moyenne": 74.34
   },
   {
     "id": 1160,
@@ -557,47 +617,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.85",
-    "moyenne": 94.47
-  },
-  {
-    "id": 159,
-    "prenom": "Demba",
-    "nom": "Bamba",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 185,
-    "poids_kg": 125,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "R92",
-    "club_nom": "Racing 92",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#97bde3",
-    "valeur": "0.84",
-    "moyenne": 80.79
-  },
-  {
-    "id": 834,
-    "prenom": "Fabien",
-    "nom": "Brau Boirie",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 190,
-    "poids_kg": 94,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.84",
-    "moyenne": null
+    "moyenne": 85.275
   },
   {
     "id": 804,
@@ -617,7 +637,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.84",
-    "moyenne": 47.76
+    "moyenne": 58.29
   },
   {
     "id": 508,
@@ -637,7 +657,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.84",
-    "moyenne": 69.36
+    "moyenne": 67.56
   },
   {
     "id": 18,
@@ -660,26 +680,6 @@
     "moyenne": 75.81
   },
   {
-    "id": 253,
-    "prenom": "Jiuta",
-    "nom": "Wainiqolo",
-    "nationalite": "FIJ",
-    "poste": "AIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 187,
-    "poids_kg": 97,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.84",
-    "moyenne": null
-  },
-  {
     "id": 808,
     "prenom": "Romain",
     "nom": "Ntamack",
@@ -697,7 +697,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.83",
-    "moyenne": 51.49
+    "moyenne": 68.16333333333333
   },
   {
     "id": 91,
@@ -737,7 +737,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.82",
-    "moyenne": 86.98
+    "moyenne": 80.68333333333334
   },
   {
     "id": 1086,
@@ -757,7 +757,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.82",
-    "moyenne": null
+    "moyenne": 63.75
   },
   {
     "id": 703,
@@ -777,7 +777,47 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.80",
-    "moyenne": 86.47
+    "moyenne": 75.64
+  },
+  {
+    "id": 872,
+    "prenom": "Theo",
+    "nom": "Attissogbe",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": "ARR",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 181,
+    "poids_kg": 84,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.80",
+    "moyenne": 71.82
+  },
+  {
+    "id": 811,
+    "prenom": "Santiago",
+    "nom": "Chocobares",
+    "nationalite": "ARG",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 188,
+    "poids_kg": 100,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.80",
+    "moyenne": 84.845
   },
   {
     "id": 771,
@@ -797,7 +837,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.80",
-    "moyenne": 66.64
+    "moyenne": 71.76666666666667
+  },
+  {
+    "id": 780,
+    "prenom": "Kalvin",
+    "nom": "Gourgues",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": "OUV",
+    "poste_tertiaire": "ARR",
+    "indisponible": false,
+    "taille_cm": 184,
+    "poids_kg": 93,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.80",
+    "moyenne": 74.14
   },
   {
     "id": 525,
@@ -817,47 +877,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.80",
-    "moyenne": 87.49
-  },
-  {
-    "id": 872,
-    "prenom": "Theo",
-    "nom": "Attissogbe",
-    "nationalite": "FRA",
-    "poste": "AIL",
-    "poste_secondaire": "ARR",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 84,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.79",
-    "moyenne": null
-  },
-  {
-    "id": 811,
-    "prenom": "Santiago",
-    "nom": "Chocobares",
-    "nationalite": "ARG",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 188,
-    "poids_kg": 100,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.79",
-    "moyenne": null
+    "moyenne": 76.78
   },
   {
     "id": 514,
@@ -880,26 +900,6 @@
     "moyenne": null
   },
   {
-    "id": 780,
-    "prenom": "Kalvin",
-    "nom": "Gourgues",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": "OUV",
-    "poste_tertiaire": "ARR",
-    "indisponible": false,
-    "taille_cm": 184,
-    "poids_kg": 93,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.79",
-    "moyenne": 65.73
-  },
-  {
     "id": 46,
     "prenom": "Maxime",
     "nom": "Lamothe",
@@ -917,7 +917,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.79",
-    "moyenne": 58.52
+    "moyenne": 64.945
   },
   {
     "id": 1249,
@@ -937,7 +937,27 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.79",
-    "moyenne": 61
+    "moyenne": 62.22
+  },
+  {
+    "id": 776,
+    "prenom": "Joshua",
+    "nom": "Brennan",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": "TL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 199,
+    "poids_kg": 118,
+    "pilier_cote": null,
+    "dl_cote": "4",
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.78",
+    "moyenne": 63.45333333333333
   },
   {
     "id": 1047,
@@ -957,7 +977,27 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.78",
-    "moyenne": null
+    "moyenne": 59.15
+  },
+  {
+    "id": 1004,
+    "prenom": "Justo",
+    "nom": "Piccardo",
+    "nationalite": "ARG",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 183,
+    "poids_kg": 105,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.78",
+    "moyenne": 74.22
   },
   {
     "id": 252,
@@ -977,7 +1017,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.78",
-    "moyenne": 78.78
+    "moyenne": 83.97
   },
   {
     "id": 339,
@@ -997,27 +1037,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.77",
-    "moyenne": 57.91
-  },
-  {
-    "id": 776,
-    "prenom": "Joshua",
-    "nom": "Brennan",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": "TL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 199,
-    "poids_kg": 118,
-    "pilier_cote": null,
-    "dl_cote": "4",
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.77",
-    "moyenne": 33.05
+    "moyenne": 59.16
   },
   {
     "id": 169,
@@ -1027,7 +1047,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 183,
     "poids_kg": 118,
     "pilier_cote": "1",
@@ -1037,7 +1057,27 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.77",
-    "moyenne": 75.74
+    "moyenne": 71.085
+  },
+  {
+    "id": 277,
+    "prenom": "Mickael",
+    "nom": "Guillard",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": "N8",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 197,
+    "poids_kg": 113,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.77",
+    "moyenne": 81.11333333333333
   },
   {
     "id": 308,
@@ -1057,7 +1097,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.77",
-    "moyenne": 46.01
+    "moyenne": 56.21
   },
   {
     "id": 690,
@@ -1077,7 +1117,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.77",
-    "moyenne": 61.64
+    "moyenne": 69.66666666666667
   },
   {
     "id": 72,
@@ -1097,27 +1137,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.77",
-    "moyenne": 72.72
-  },
-  {
-    "id": 1004,
-    "prenom": "Justo",
-    "nom": "Piccardo",
-    "nationalite": "ARG",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 183,
-    "poids_kg": 105,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.77",
-    "moyenne": 82.13
+    "moyenne": 74.615
   },
   {
     "id": 8,
@@ -1140,26 +1160,6 @@
     "moyenne": null
   },
   {
-    "id": 277,
-    "prenom": "Mickael",
-    "nom": "Guillard",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": "N8",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 197,
-    "poids_kg": 113,
-    "pilier_cote": null,
-    "dl_cote": "5",
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.76",
-    "moyenne": 83.88
-  },
-  {
     "id": 40,
     "prenom": "Marko",
     "nom": "Gazzotti",
@@ -1177,7 +1177,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.75",
-    "moyenne": 77.08
+    "moyenne": 66.52
   },
   {
     "id": 758,
@@ -1197,7 +1197,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.75",
-    "moyenne": null
+    "moyenne": 57.73
   },
   {
     "id": 316,
@@ -1217,7 +1217,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.75",
-    "moyenne": 66.1
+    "moyenne": 71.645
   },
   {
     "id": 362,
@@ -1257,7 +1257,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.75",
-    "moyenne": 80.55
+    "moyenne": 77.64
   },
   {
     "id": 313,
@@ -1277,7 +1277,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.74",
-    "moyenne": 47.1
+    "moyenne": 48.87
   },
   {
     "id": 144,
@@ -1297,7 +1297,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.74",
-    "moyenne": 70.21
+    "moyenne": 63.88
   },
   {
     "id": 496,
@@ -1317,7 +1317,27 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.74",
-    "moyenne": 63.78
+    "moyenne": 67.975
+  },
+  {
+    "id": 1045,
+    "prenom": "Tyler",
+    "nom": "Duguid",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 201,
+    "poids_kg": 124,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.74",
+    "moyenne": 75.16
   },
   {
     "id": 346,
@@ -1360,26 +1380,6 @@
     "moyenne": null
   },
   {
-    "id": 1045,
-    "prenom": "Tyler",
-    "nom": "Duguid",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 201,
-    "poids_kg": 124,
-    "pilier_cote": null,
-    "dl_cote": "5",
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.73",
-    "moyenne": 71.61
-  },
-  {
     "id": 127,
     "prenom": "Melvyn",
     "nom": "Jaminet",
@@ -1387,7 +1387,7 @@
     "poste": "ARR",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 180,
     "poids_kg": 80,
     "pilier_cote": null,
@@ -1397,7 +1397,27 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.73",
-    "moyenne": 76.51
+    "moyenne": 67.68
+  },
+  {
+    "id": 678,
+    "prenom": "Alivereti",
+    "nom": "Loaloa",
+    "nationalite": "FIJ",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 101,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ASM",
+    "club_nom": "ASM Clermont Auvergne",
+    "couleur_hex": "#f2c415",
+    "couleur2_hex": "#2a62cb",
+    "valeur": "0.73",
+    "moyenne": 66.86666666666666
   },
   {
     "id": 1115,
@@ -1417,7 +1437,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.73",
-    "moyenne": 58.14
+    "moyenne": 68.26666666666667
   },
   {
     "id": 170,
@@ -1437,27 +1457,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.72",
-    "moyenne": 50.33
-  },
-  {
-    "id": 678,
-    "prenom": "Alivereti",
-    "nom": "Loaloa",
-    "nationalite": "FIJ",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 101,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ASM",
-    "club_nom": "ASM Clermont Auvergne",
-    "couleur_hex": "#f2c415",
-    "couleur2_hex": "#2a62cb",
-    "valeur": "0.72",
-    "moyenne": 45.51
+    "moyenne": 65.75333333333333
   },
   {
     "id": 11,
@@ -1497,7 +1497,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.71",
-    "moyenne": null
+    "moyenne": 65.63
   },
   {
     "id": 302,
@@ -1517,7 +1517,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.71",
-    "moyenne": 63.56
+    "moyenne": 55.89666666666667
   },
   {
     "id": 794,
@@ -1537,7 +1537,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.71",
-    "moyenne": 50.3
+    "moyenne": 50.03
   },
   {
     "id": 116,
@@ -1556,8 +1556,28 @@
     "club_nom": "RC Toulon",
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
+    "valeur": "0.71",
+    "moyenne": 81.785
+  },
+  {
+    "id": 989,
+    "prenom": "Enzo",
+    "nom": "Forletta",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 175,
+    "poids_kg": 118,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
     "valeur": "0.70",
-    "moyenne": null
+    "moyenne": 72.70333333333333
   },
   {
     "id": 1119,
@@ -1577,7 +1597,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.70",
-    "moyenne": 63.8
+    "moyenne": 69.8
   },
   {
     "id": 599,
@@ -1617,7 +1637,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.70",
-    "moyenne": 76.07
+    "moyenne": 67.55
   },
   {
     "id": 146,
@@ -1637,27 +1657,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.69",
-    "moyenne": null
-  },
-  {
-    "id": 989,
-    "prenom": "Enzo",
-    "nom": "Forletta",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 175,
-    "poids_kg": 118,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.69",
-    "moyenne": 70.18
+    "moyenne": 72.5
   },
   {
     "id": 929,
@@ -1677,7 +1677,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.69",
-    "moyenne": 90.97
+    "moyenne": 79.04
   },
   {
     "id": 149,
@@ -1697,7 +1697,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.69",
-    "moyenne": 78.09
+    "moyenne": 69.735
   },
   {
     "id": 289,
@@ -1717,7 +1717,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.69",
-    "moyenne": 68.04
+    "moyenne": 72.285
   },
   {
     "id": 201,
@@ -1737,7 +1737,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.69",
-    "moyenne": 68.21
+    "moyenne": 66.52333333333333
   },
   {
     "id": 12,
@@ -1760,44 +1760,44 @@
     "moyenne": null
   },
   {
-    "id": 536,
-    "prenom": "Yoan",
-    "nom": "Tanga",
-    "nationalite": "FRA",
-    "poste": "N8",
+    "id": 846,
+    "prenom": "Joe",
+    "nom": "Simmonds",
+    "nationalite": "ANG",
+    "poste": "OUV",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 185,
-    "poids_kg": 107,
+    "taille_cm": 182,
+    "poids_kg": 94,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.69",
-    "moyenne": 79.02
+    "moyenne": 65.83666666666667
   },
   {
-    "id": 81,
-    "prenom": "Ben",
-    "nom": "White",
-    "nationalite": "ECO",
-    "poste": "DM",
+    "id": 612,
+    "prenom": "Baptiste",
+    "nom": "Delaporte",
+    "nationalite": "FRA",
+    "poste": "TL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 180,
-    "poids_kg": 87,
+    "taille_cm": 190,
+    "poids_kg": 110,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.69",
-    "moyenne": 56.24
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.68",
+    "moyenne": 82.28
   },
   {
     "id": 125,
@@ -1817,7 +1817,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.68",
-    "moyenne": 39.82
+    "moyenne": 60.51
   },
   {
     "id": 386,
@@ -1837,7 +1837,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.68",
-    "moyenne": 74.42
+    "moyenne": 61.71333333333333
   },
   {
     "id": 207,
@@ -1847,7 +1847,7 @@
     "poste": "AIL",
     "poste_secondaire": "CEN",
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 184,
     "poids_kg": 100,
     "pilier_cote": null,
@@ -1857,7 +1857,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.68",
-    "moyenne": null
+    "moyenne": 63.78
   },
   {
     "id": 211,
@@ -1900,24 +1900,44 @@
     "moyenne": null
   },
   {
-    "id": 846,
-    "prenom": "Joe",
-    "nom": "Simmonds",
-    "nationalite": "ANG",
-    "poste": "OUV",
+    "id": 536,
+    "prenom": "Yoan",
+    "nom": "Tanga",
+    "nationalite": "FRA",
+    "poste": "N8",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 94,
+    "taille_cm": 185,
+    "poids_kg": 107,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.68",
-    "moyenne": 78.61
+    "moyenne": 60.79
+  },
+  {
+    "id": 81,
+    "prenom": "Ben",
+    "nom": "White",
+    "nationalite": "ECO",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 180,
+    "poids_kg": 87,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.68",
+    "moyenne": 54.10666666666667
   },
   {
     "id": 1078,
@@ -1937,7 +1957,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.68",
-    "moyenne": 46.6
+    "moyenne": 48.11
   },
   {
     "id": 805,
@@ -1977,27 +1997,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.67",
-    "moyenne": 80.44
-  },
-  {
-    "id": 612,
-    "prenom": "Baptiste",
-    "nom": "Delaporte",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 190,
-    "poids_kg": 110,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.67",
-    "moyenne": 79.59
+    "moyenne": 73.83666666666667
   },
   {
     "id": 833,
@@ -2017,7 +2017,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.67",
-    "moyenne": 75.37
+    "moyenne": 69.8
   },
   {
     "id": 629,
@@ -2037,7 +2037,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.67",
-    "moyenne": 79.1
+    "moyenne": 77.28
   },
   {
     "id": 177,
@@ -2057,7 +2057,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.67",
-    "moyenne": null
+    "moyenne": 83.06
   },
   {
     "id": 879,
@@ -2077,7 +2077,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.67",
-    "moyenne": 41.58
+    "moyenne": 58.07666666666667
   },
   {
     "id": 178,
@@ -2097,7 +2097,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.67",
-    "moyenne": 46.13
+    "moyenne": 57.655
   },
   {
     "id": 845,
@@ -2137,7 +2137,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.67",
-    "moyenne": 69.05
+    "moyenne": 66.885
   },
   {
     "id": 293,
@@ -2177,7 +2177,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.67",
-    "moyenne": 48.47
+    "moyenne": 60.626666666666665
   },
   {
     "id": 891,
@@ -2197,7 +2197,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.66",
-    "moyenne": 82.91
+    "moyenne": 80.14666666666666
   },
   {
     "id": 952,
@@ -2217,7 +2217,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.66",
-    "moyenne": 72.57
+    "moyenne": 62.84
   },
   {
     "id": 223,
@@ -2237,7 +2237,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.66",
-    "moyenne": null
+    "moyenne": 73.1
   },
   {
     "id": 767,
@@ -2257,7 +2257,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.66",
-    "moyenne": null
+    "moyenne": 60.83
   },
   {
     "id": 166,
@@ -2277,7 +2277,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.66",
-    "moyenne": 74.28
+    "moyenne": 72.61
   },
   {
     "id": 1080,
@@ -2297,7 +2297,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.66",
-    "moyenne": 83.76
+    "moyenne": 72.06
   },
   {
     "id": 836,
@@ -2317,7 +2317,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.66",
-    "moyenne": 80.64
+    "moyenne": 75.75333333333333
   },
   {
     "id": 851,
@@ -2337,7 +2337,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.66",
-    "moyenne": 66.87
+    "moyenne": 70.77
   },
   {
     "id": 83,
@@ -2397,7 +2397,27 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.66",
-    "moyenne": null
+    "moyenne": 55.47
+  },
+  {
+    "id": 113,
+    "prenom": "Kyle",
+    "nom": "Sinckler",
+    "nationalite": "ANG",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 122,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.66",
+    "moyenne": 76.465
   },
   {
     "id": 1000,
@@ -2437,7 +2457,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.66",
-    "moyenne": 79.91
+    "moyenne": 78.83333333333333
   },
   {
     "id": 94,
@@ -2457,7 +2477,27 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.65",
-    "moyenne": 62.69
+    "moyenne": 66.53
+  },
+  {
+    "id": 664,
+    "prenom": "Santiago",
+    "nom": "Arata",
+    "nationalite": "URU",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 174,
+    "poids_kg": 75,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.65",
+    "moyenne": 84.27
   },
   {
     "id": 842,
@@ -2465,7 +2505,7 @@
     "nom": "Auradou",
     "nationalite": "FRA",
     "poste": "DL",
-    "poste_secondaire": null,
+    "poste_secondaire": "TL",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 200,
@@ -2477,7 +2517,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.65",
-    "moyenne": null
+    "moyenne": 69.765
   },
   {
     "id": 189,
@@ -2497,7 +2537,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.65",
-    "moyenne": 50.66
+    "moyenne": 63.065
   },
   {
     "id": 1055,
@@ -2517,7 +2557,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.65",
-    "moyenne": 48.31
+    "moyenne": 49.375
   },
   {
     "id": 1248,
@@ -2537,7 +2577,27 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.65",
-    "moyenne": 54.96
+    "moyenne": 63.205
+  },
+  {
+    "id": 977,
+    "prenom": "Baptiste",
+    "nom": "Erdocio",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 175,
+    "poids_kg": 115,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.65",
+    "moyenne": 79
   },
   {
     "id": 800,
@@ -2557,27 +2617,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.65",
-    "moyenne": null
-  },
-  {
-    "id": 202,
-    "prenom": "Shingarai",
-    "nom": "Manyarara",
-    "nationalite": "ZIM",
-    "poste": "TL",
-    "poste_secondaire": "N8",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 185,
-    "poids_kg": 100,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "R92",
-    "club_nom": "Racing 92",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#97bde3",
-    "valeur": "0.65",
-    "moyenne": 51.09
+    "moyenne": 64.67
   },
   {
     "id": 475,
@@ -2597,7 +2637,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.65",
-    "moyenne": 69.89
+    "moyenne": 68.55
   },
   {
     "id": 986,
@@ -2617,7 +2657,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.65",
-    "moyenne": 85.03
+    "moyenne": 74.875
   },
   {
     "id": 1221,
@@ -2637,7 +2677,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.65",
-    "moyenne": 85.29
+    "moyenne": 70.14333333333333
   },
   {
     "id": 840,
@@ -2660,26 +2700,6 @@
     "moyenne": null
   },
   {
-    "id": 113,
-    "prenom": "Kyle",
-    "nom": "Sinckler",
-    "nationalite": "ANG",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 122,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.65",
-    "moyenne": 64.17
-  },
-  {
     "id": 814,
     "prenom": "Teddy",
     "nom": "Thomas",
@@ -2697,7 +2717,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.65",
-    "moyenne": null
+    "moyenne": 64.565
   },
   {
     "id": 741,
@@ -2720,26 +2740,6 @@
     "moyenne": null
   },
   {
-    "id": 664,
-    "prenom": "Santiago",
-    "nom": "Arata",
-    "nationalite": "URU",
-    "poste": "DM",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 174,
-    "poids_kg": 75,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.64",
-    "moyenne": 83.94
-  },
-  {
     "id": 936,
     "prenom": "Mateo",
     "nom": "Carreras",
@@ -2747,7 +2747,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 173,
     "poids_kg": 84,
     "pilier_cote": null,
@@ -2757,7 +2757,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.64",
-    "moyenne": null
+    "moyenne": 81.96
+  },
+  {
+    "id": 601,
+    "prenom": "Adrea",
+    "nom": "Cocagi",
+    "nationalite": "FIJ",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 185,
+    "poids_kg": 109,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.64",
+    "moyenne": 69.41666666666667
   },
   {
     "id": 1,
@@ -2780,26 +2800,6 @@
     "moyenne": null
   },
   {
-    "id": 977,
-    "prenom": "Baptiste",
-    "nom": "Erdocio",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 175,
-    "poids_kg": 115,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.64",
-    "moyenne": 78.47
-  },
-  {
     "id": 889,
     "prenom": "Alexandre",
     "nom": "Fischer",
@@ -2817,7 +2817,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.64",
-    "moyenne": 80.35
+    "moyenne": 69.62333333333333
+  },
+  {
+    "id": 513,
+    "prenom": "Paul",
+    "nom": "Gabrillagues",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 197,
+    "poids_kg": 106,
+    "pilier_cote": null,
+    "dl_cote": "4",
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.64",
+    "moyenne": 71.845
   },
   {
     "id": 1026,
@@ -2857,7 +2877,67 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.64",
-    "moyenne": null
+    "moyenne": 69.16
+  },
+  {
+    "id": 202,
+    "prenom": "Shingarai",
+    "nom": "Manyarara",
+    "nationalite": "ZIM",
+    "poste": "TL",
+    "poste_secondaire": "N8",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 185,
+    "poids_kg": 100,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.64",
+    "moyenne": 43.07
+  },
+  {
+    "id": 734,
+    "prenom": "Regis",
+    "nom": "Montagne",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 186,
+    "poids_kg": 132,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "ASM",
+    "club_nom": "ASM Clermont Auvergne",
+    "couleur_hex": "#f2c415",
+    "couleur2_hex": "#2a62cb",
+    "valeur": "0.64",
+    "moyenne": 80.17333333333333
+  },
+  {
+    "id": 1043,
+    "prenom": "Tom",
+    "nom": "Banks",
+    "nationalite": "AUS",
+    "poste": "ARR",
+    "poste_secondaire": "AIL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 186,
+    "poids_kg": 93,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.63",
+    "moyenne": 72.78
   },
   {
     "id": 491,
@@ -2877,7 +2957,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.63",
-    "moyenne": 80.12
+    "moyenne": 63.935
   },
   {
     "id": 1073,
@@ -2897,7 +2977,47 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.63",
-    "moyenne": null
+    "moyenne": 73.31
+  },
+  {
+    "id": 319,
+    "prenom": "Judicael",
+    "nom": "Cancoriet",
+    "nationalite": "FRA",
+    "poste": "TL",
+    "poste_secondaire": "DL",
+    "poste_tertiaire": null,
+    "indisponible": true,
+    "taille_cm": 194,
+    "poids_kg": 112,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.63",
+    "moyenne": 68.355
+  },
+  {
+    "id": 753,
+    "prenom": "Ange",
+    "nom": "Capuozzo",
+    "nationalite": "ITA",
+    "poste": "AIL",
+    "poste_secondaire": "ARR",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 177,
+    "poids_kg": 79,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.63",
+    "moyenne": 68.495
   },
   {
     "id": 745,
@@ -2917,7 +3037,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.63",
-    "moyenne": null
+    "moyenne": 71.09
   },
   {
     "id": 228,
@@ -2937,27 +3057,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.63",
-    "moyenne": 51.51
-  },
-  {
-    "id": 601,
-    "prenom": "Adrea",
-    "nom": "Cocagi",
-    "nationalite": "FIJ",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 185,
-    "poids_kg": 109,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.63",
-    "moyenne": 63.62
+    "moyenne": 63.86666666666667
   },
   {
     "id": 777,
@@ -2977,7 +3077,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.63",
-    "moyenne": null
+    "moyenne": 82.2
   },
   {
     "id": 630,
@@ -2997,27 +3097,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.63",
-    "moyenne": 58.38
-  },
-  {
-    "id": 513,
-    "prenom": "Paul",
-    "nom": "Gabrillagues",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 197,
-    "poids_kg": 106,
-    "pilier_cote": null,
-    "dl_cote": "4",
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.63",
-    "moyenne": 64.71
+    "moyenne": 65.68666666666667
   },
   {
     "id": 1232,
@@ -3037,27 +3117,27 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.63",
-    "moyenne": 72.12
+    "moyenne": 49.806666666666665
   },
   {
-    "id": 734,
-    "prenom": "Regis",
-    "nom": "Montagne",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
+    "id": 246,
+    "prenom": "Iosefo",
+    "nom": "Masi",
+    "nationalite": "FIJ",
+    "poste": "CEN",
+    "poste_secondaire": "AIL",
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 186,
-    "poids_kg": 132,
-    "pilier_cote": "3",
+    "taille_cm": 190,
+    "poids_kg": 97,
+    "pilier_cote": null,
     "dl_cote": null,
-    "club": "ASM",
-    "club_nom": "ASM Clermont Auvergne",
-    "couleur_hex": "#f2c415",
-    "couleur2_hex": "#2a62cb",
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
     "valeur": "0.63",
-    "moyenne": 74.42
+    "moyenne": 72.30666666666667
   },
   {
     "id": 925,
@@ -3097,7 +3177,27 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.63",
-    "moyenne": null
+    "moyenne": 58.635
+  },
+  {
+    "id": 526,
+    "prenom": "Tani",
+    "nom": "Vili",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": "TL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 109,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.63",
+    "moyenne": 70.385
   },
   {
     "id": 290,
@@ -3117,67 +3217,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.63",
-    "moyenne": 59.08
-  },
-  {
-    "id": 1043,
-    "prenom": "Tom",
-    "nom": "Banks",
-    "nationalite": "AUS",
-    "poste": "ARR",
-    "poste_secondaire": "AIL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 186,
-    "poids_kg": 93,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.62",
-    "moyenne": 60.43
-  },
-  {
-    "id": 319,
-    "prenom": "Judicael",
-    "nom": "Cancoriet",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": "DL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 194,
-    "poids_kg": 112,
-    "pilier_cote": null,
-    "dl_cote": "5",
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.62",
-    "moyenne": 56.5
-  },
-  {
-    "id": 753,
-    "prenom": "Ange",
-    "nom": "Capuozzo",
-    "nationalite": "ITA",
-    "poste": "AIL",
-    "poste_secondaire": "ARR",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 177,
-    "poids_kg": 79,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.62",
-    "moyenne": 53.76
+    "moyenne": 63.45666666666666
   },
   {
     "id": 769,
@@ -3197,7 +3237,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.62",
-    "moyenne": 57.14
+    "moyenne": 65.34666666666666
   },
   {
     "id": 823,
@@ -3217,27 +3257,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.62",
-    "moyenne": 61.47
-  },
-  {
-    "id": 246,
-    "prenom": "Iosefo",
-    "nom": "Masi",
-    "nationalite": "FIJ",
-    "poste": "CEN",
-    "poste_secondaire": "AIL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 190,
-    "poids_kg": 97,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.62",
-    "moyenne": 59.13
+    "moyenne": 60.08
   },
   {
     "id": 850,
@@ -3257,7 +3277,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.62",
-    "moyenne": null
+    "moyenne": 71.88
   },
   {
     "id": 44,
@@ -3277,7 +3297,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.62",
-    "moyenne": 90.26
+    "moyenne": 79.82
   },
   {
     "id": 711,
@@ -3297,7 +3317,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.62",
-    "moyenne": 53.72
+    "moyenne": 58.39333333333333
   },
   {
     "id": 1098,
@@ -3307,7 +3327,7 @@
     "poste": "N8",
     "poste_secondaire": "TL",
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 185,
     "poids_kg": 108,
     "pilier_cote": null,
@@ -3317,27 +3337,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.62",
-    "moyenne": null
-  },
-  {
-    "id": 526,
-    "prenom": "Tani",
-    "nom": "Vili",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": "TL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 187,
-    "poids_kg": 109,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.62",
-    "moyenne": 53.2
+    "moyenne": 62.48
   },
   {
     "id": 344,
@@ -3377,7 +3377,27 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.61",
-    "moyenne": 69.95
+    "moyenne": 57.943333333333335
+  },
+  {
+    "id": 262,
+    "prenom": "Liam",
+    "nom": "Allen",
+    "nationalite": "NZL",
+    "poste": "TL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 191,
+    "poids_kg": 105,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.61",
+    "moyenne": 78.21
   },
   {
     "id": 247,
@@ -3397,7 +3417,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.61",
-    "moyenne": 76.85
+    "moyenne": 68.54333333333334
   },
   {
     "id": 874,
@@ -3417,7 +3437,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.61",
-    "moyenne": 58.19
+    "moyenne": 63.95333333333333
   },
   {
     "id": 121,
@@ -3457,7 +3477,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.61",
-    "moyenne": null
+    "moyenne": 70.96
   },
   {
     "id": 329,
@@ -3477,7 +3497,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.61",
-    "moyenne": 39.14
+    "moyenne": 54.626666666666665
   },
   {
     "id": 205,
@@ -3497,7 +3517,27 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.61",
-    "moyenne": 58.87
+    "moyenne": 58.205
+  },
+  {
+    "id": 844,
+    "prenom": "Jack",
+    "nom": "Maddocks",
+    "nationalite": "AUS",
+    "poste": "ARR",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": true,
+    "taille_cm": 194,
+    "poids_kg": 100,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.61",
+    "moyenne": 79.04
   },
   {
     "id": 883,
@@ -3517,7 +3557,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.61",
-    "moyenne": 82.21
+    "moyenne": 72.285
   },
   {
     "id": 244,
@@ -3537,7 +3577,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.61",
-    "moyenne": 73.76
+    "moyenne": 67.57
   },
   {
     "id": 1016,
@@ -3547,7 +3587,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 187,
     "poids_kg": 103,
     "pilier_cote": null,
@@ -3557,7 +3597,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.61",
-    "moyenne": null
+    "moyenne": 74.09
   },
   {
     "id": 209,
@@ -3617,7 +3657,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.61",
-    "moyenne": 59.37
+    "moyenne": 57.25
   },
   {
     "id": 58,
@@ -3657,27 +3697,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.61",
-    "moyenne": 63.79
-  },
-  {
-    "id": 262,
-    "prenom": "Liam",
-    "nom": "Allen",
-    "nationalite": "NZL",
-    "poste": "TL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": true,
-    "taille_cm": 191,
-    "poids_kg": 105,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.60",
-    "moyenne": null
+    "moyenne": 70.865
   },
   {
     "id": 507,
@@ -3707,7 +3727,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 193,
     "poids_kg": 88,
     "pilier_cote": null,
@@ -3757,7 +3777,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.60",
-    "moyenne": 76.67
+    "moyenne": 61.065
   },
   {
     "id": 832,
@@ -3827,7 +3847,7 @@
     "poste": "CEN",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 181,
     "poids_kg": 91,
     "pilier_cote": null,
@@ -3837,7 +3857,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.60",
-    "moyenne": 79.67
+    "moyenne": 73.52
   },
   {
     "id": 17,
@@ -3857,7 +3877,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.60",
-    "moyenne": 83.55
+    "moyenne": 76.745
   },
   {
     "id": 799,
@@ -3877,7 +3897,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.60",
-    "moyenne": 47.31
+    "moyenne": 45.205
   },
   {
     "id": 754,
@@ -3937,27 +3957,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.60",
-    "moyenne": 78.89
-  },
-  {
-    "id": 844,
-    "prenom": "Jack",
-    "nom": "Maddocks",
-    "nationalite": "AUS",
-    "poste": "ARR",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 194,
-    "poids_kg": 100,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.60",
-    "moyenne": 75
+    "moyenne": 75.95
   },
   {
     "id": 953,
@@ -3977,7 +3977,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.60",
-    "moyenne": 57.35
+    "moyenne": 60.46333333333333
   },
   {
     "id": 62,
@@ -3997,7 +3997,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.60",
-    "moyenne": null
+    "moyenne": 59.52
   },
   {
     "id": 1155,
@@ -4037,7 +4037,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.60",
-    "moyenne": 47.98
+    "moyenne": 54.24333333333333
   },
   {
     "id": 972,
@@ -4057,7 +4057,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.60",
-    "moyenne": 57.01
+    "moyenne": 50.68
   },
   {
     "id": 420,
@@ -4077,7 +4077,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.60",
-    "moyenne": 63.46
+    "moyenne": 66.05666666666667
   },
   {
     "id": 761,
@@ -4160,6 +4160,26 @@
     "moyenne": 52.1
   },
   {
+    "id": 770,
+    "prenom": "Georges-Henri",
+    "nom": "Colombe",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 193,
+    "poids_kg": 142,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.59",
+    "moyenne": 57.805
+  },
+  {
     "id": 668,
     "prenom": "Teddy",
     "nom": "Durand",
@@ -4177,7 +4197,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.59",
-    "moyenne": 81.67
+    "moyenne": 67.83333333333333
   },
   {
     "id": 320,
@@ -4187,7 +4207,7 @@
     "poste": "AIL",
     "poste_secondaire": "CEN",
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 181,
     "poids_kg": 93,
     "pilier_cote": null,
@@ -4197,7 +4217,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.59",
-    "moyenne": null
+    "moyenne": 54.3
   },
   {
     "id": 80,
@@ -4237,7 +4257,27 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.59",
-    "moyenne": 58.53
+    "moyenne": 58.93
+  },
+  {
+    "id": 1088,
+    "prenom": "Jonny",
+    "nom": "Gray",
+    "nationalite": "ECO",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 198,
+    "poids_kg": 122,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
+    "valeur": "0.59",
+    "moyenne": 84.95
   },
   {
     "id": 733,
@@ -4247,7 +4287,7 @@
     "poste": "N8",
     "poste_secondaire": "TL",
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 196,
     "poids_kg": 117,
     "pilier_cote": null,
@@ -4287,7 +4327,7 @@
     "poste": "N8",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 196,
     "poids_kg": 126,
     "pilier_cote": null,
@@ -4337,7 +4377,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.59",
-    "moyenne": null
+    "moyenne": 61.31
   },
   {
     "id": 722,
@@ -4357,7 +4397,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.59",
-    "moyenne": 70.15
+    "moyenne": 68.04
   },
   {
     "id": 1146,
@@ -4377,7 +4417,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.59",
-    "moyenne": 72.51
+    "moyenne": 62.85666666666667
   },
   {
     "id": 744,
@@ -4397,7 +4437,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.59",
-    "moyenne": 66.09
+    "moyenne": 60.53
   },
   {
     "id": 801,
@@ -4437,7 +4477,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.59",
-    "moyenne": 41.73
+    "moyenne": 49.833333333333336
   },
   {
     "id": 174,
@@ -4457,7 +4497,27 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.59",
-    "moyenne": 60.55
+    "moyenne": 54.776666666666664
+  },
+  {
+    "id": 985,
+    "prenom": "Christopher",
+    "nom": "Tolofua",
+    "nationalite": "FRA",
+    "poste": "TAL",
+    "poste_secondaire": "PIL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 120,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.59",
+    "moyenne": 78.755
   },
   {
     "id": 141,
@@ -4477,27 +4537,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.59",
-    "moyenne": null
-  },
-  {
-    "id": 770,
-    "prenom": "Georges-Henri",
-    "nom": "Colombe",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 193,
-    "poids_kg": 142,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.58",
-    "moyenne": 38
+    "moyenne": 52.45
   },
   {
     "id": 712,
@@ -4517,27 +4557,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.58",
-    "moyenne": 81.3
-  },
-  {
-    "id": 878,
-    "prenom": "Thomas",
-    "nom": "Jolmes",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 204,
-    "poids_kg": 117,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.58",
-    "moyenne": 67.72
+    "moyenne": 67.73
   },
   {
     "id": 226,
@@ -4557,7 +4577,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.58",
-    "moyenne": 74.24
+    "moyenne": 77.89
   },
   {
     "id": 958,
@@ -4567,7 +4587,7 @@
     "poste": "AIL",
     "poste_secondaire": "ARR",
     "poste_tertiaire": "OUV",
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 186,
     "poids_kg": 87,
     "pilier_cote": null,
@@ -4577,7 +4597,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.58",
-    "moyenne": null
+    "moyenne": 73.28
   },
   {
     "id": 1143,
@@ -4597,27 +4617,27 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.58",
-    "moyenne": 76.35
+    "moyenne": 70.315
   },
   {
-    "id": 985,
-    "prenom": "Christopher",
-    "nom": "Tolofua",
+    "id": 1049,
+    "prenom": "Adrien",
+    "nom": "Warion",
     "nationalite": "FRA",
-    "poste": "TAL",
-    "poste_secondaire": "PIL",
+    "poste": "DL",
+    "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 120,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
+    "taille_cm": 202,
+    "poids_kg": 107,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
     "valeur": "0.58",
-    "moyenne": null
+    "moyenne": 81.78
   },
   {
     "id": 55,
@@ -4637,27 +4657,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.57",
-    "moyenne": 79.83
-  },
-  {
-    "id": 1088,
-    "prenom": "Jonny",
-    "nom": "Gray",
-    "nationalite": "ECO",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 198,
-    "poids_kg": 122,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.57",
-    "moyenne": 77.55
+    "moyenne": 68.355
   },
   {
     "id": 279,
@@ -4680,6 +4680,26 @@
     "moyenne": 76.74
   },
   {
+    "id": 878,
+    "prenom": "Thomas",
+    "nom": "Jolmes",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 204,
+    "poids_kg": 117,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.57",
+    "moyenne": 60.086666666666666
+  },
+  {
     "id": 1117,
     "prenom": "Posolo",
     "nom": "Tuilagi",
@@ -4697,27 +4717,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.57",
-    "moyenne": 53.47
-  },
-  {
-    "id": 1049,
-    "prenom": "Adrien",
-    "nom": "Warion",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 202,
-    "poids_kg": 107,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.57",
-    "moyenne": 78.43
+    "moyenne": 49.946666666666665
   },
   {
     "id": 867,
@@ -4727,7 +4727,7 @@
     "poste": "TL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 192,
     "poids_kg": 105,
     "pilier_cote": null,
@@ -4738,6 +4738,26 @@
     "couleur2_hex": "#ffffff",
     "valeur": "0.57",
     "moyenne": null
+  },
+  {
+    "id": 512,
+    "prenom": "Paul",
+    "nom": "Alo-Emile",
+    "nationalite": "SAM",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 180,
+    "poids_kg": 132,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.56",
+    "moyenne": 78.145
   },
   {
     "id": 912,
@@ -4757,7 +4777,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.56",
-    "moyenne": null
+    "moyenne": 62.72
   },
   {
     "id": 341,
@@ -4777,7 +4797,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.56",
-    "moyenne": 81.59
+    "moyenne": 73.87
   },
   {
     "id": 860,
@@ -4807,7 +4827,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 183,
     "poids_kg": 108,
     "pilier_cote": "1",
@@ -4837,7 +4857,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.56",
-    "moyenne": 79.92
+    "moyenne": 68.67666666666666
   },
   {
     "id": 126,
@@ -4877,7 +4897,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.56",
-    "moyenne": 39.87
+    "moyenne": 43.585
   },
   {
     "id": 674,
@@ -4917,7 +4937,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.56",
-    "moyenne": null
+    "moyenne": 75.565
   },
   {
     "id": 255,
@@ -5020,26 +5040,6 @@
     "moyenne": null
   },
   {
-    "id": 512,
-    "prenom": "Paul",
-    "nom": "Alo-Emile",
-    "nationalite": "SAM",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 180,
-    "poids_kg": 132,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.55",
-    "moyenne": 79.44
-  },
-  {
     "id": 645,
     "prenom": "Mathieu",
     "nom": "Babillot",
@@ -5077,7 +5077,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.55",
-    "moyenne": null
+    "moyenne": 49.48
   },
   {
     "id": 185,
@@ -5117,27 +5117,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.55",
-    "moyenne": 71.83
-  },
-  {
-    "id": 528,
-    "prenom": "Tawera",
-    "nom": "Kerr-Barlow",
-    "nationalite": "NZL",
-    "poste": "DM",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 187,
-    "poids_kg": 91,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.55",
-    "moyenne": 75.22
+    "moyenne": 80.49
   },
   {
     "id": 32,
@@ -5167,7 +5147,7 @@
     "poste": "DL",
     "poste_secondaire": "TL",
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 198,
     "poids_kg": 122,
     "pilier_cote": null,
@@ -5197,7 +5177,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.55",
-    "moyenne": null
+    "moyenne": 59.49
   },
   {
     "id": 853,
@@ -5217,7 +5197,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.55",
-    "moyenne": 70.15
+    "moyenne": 66.37
   },
   {
     "id": 199,
@@ -5237,7 +5217,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.55",
-    "moyenne": 43.89
+    "moyenne": 65.38666666666667
   },
   {
     "id": 1131,
@@ -5257,7 +5237,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.55",
-    "moyenne": null
+    "moyenne": 69.68
   },
   {
     "id": 301,
@@ -5265,7 +5245,7 @@
     "nom": "Timo",
     "nationalite": "FRA",
     "poste": "TL",
-    "poste_secondaire": null,
+    "poste_secondaire": "AIL",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 192,
@@ -5277,7 +5257,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.55",
-    "moyenne": null
+    "moyenne": 57.115
   },
   {
     "id": 1174,
@@ -5287,7 +5267,7 @@
     "poste": "N8",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -5317,7 +5297,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.55",
-    "moyenne": null
+    "moyenne": 63.51
   },
   {
     "id": 52,
@@ -5337,27 +5317,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.54",
-    "moyenne": 72.15
-  },
-  {
-    "id": 852,
-    "prenom": "Loic",
-    "nom": "Credoz",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": "N8",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 189,
-    "poids_kg": 108,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SP",
-    "club_nom": "Section Paloise",
-    "couleur_hex": "#043424",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.54",
-    "moyenne": 76.2
+    "moyenne": 67.25
   },
   {
     "id": 893,
@@ -5397,7 +5357,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.54",
-    "moyenne": 69.77
+    "moyenne": 57.925
   },
   {
     "id": 54,
@@ -5418,6 +5378,26 @@
     "couleur2_hex": "#ffffff",
     "valeur": "0.54",
     "moyenne": null
+  },
+  {
+    "id": 528,
+    "prenom": "Tawera",
+    "nom": "Kerr-Barlow",
+    "nationalite": "NZL",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 91,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.54",
+    "moyenne": 56.09
   },
   {
     "id": 1079,
@@ -5457,27 +5437,87 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.54",
-    "moyenne": 29.59
+    "moyenne": 42.846666666666664
   },
   {
-    "id": 613,
-    "prenom": "Christian",
-    "nom": "Ambadiang",
+    "id": 852,
+    "prenom": "Loic",
+    "nom": "Credoz",
     "nationalite": "FRA",
-    "poste": "AIL",
-    "poste_secondaire": null,
+    "poste": "TL",
+    "poste_secondaire": "N8",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 189,
-    "poids_kg": 107,
+    "poids_kg": 108,
     "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SP",
+    "club_nom": "Section Paloise",
+    "couleur_hex": "#043424",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.53",
+    "moyenne": 61.81333333333333
+  },
+  {
+    "id": 765,
+    "prenom": "Dimitri",
+    "nom": "Delibes",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": "CEN",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 190,
+    "poids_kg": 98,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.53",
+    "moyenne": 69.02666666666667
+  },
+  {
+    "id": 521,
+    "prenom": "Samuel",
+    "nom": "Ezeala",
+    "nationalite": "ESP",
+    "poste": "AIL",
+    "poste_secondaire": "CEN",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 99,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.53",
+    "moyenne": 83.15
+  },
+  {
+    "id": 657,
+    "prenom": "Quentin",
+    "nom": "Walcker",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 181,
+    "poids_kg": 109,
+    "pilier_cote": "1",
     "dl_cote": null,
     "club": "CO",
     "club_nom": "Castres Olympique",
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.53",
-    "moyenne": null
+    "moyenne": 64.72333333333333
   },
   {
     "id": 523,
@@ -5497,7 +5537,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.52",
-    "moyenne": 69.78
+    "moyenne": 63.59
   },
   {
     "id": 764,
@@ -5518,6 +5558,26 @@
     "couleur2_hex": "#000000",
     "valeur": "0.52",
     "moyenne": null
+  },
+  {
+    "id": 613,
+    "prenom": "Christian",
+    "nom": "Ambadiang",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 189,
+    "poids_kg": 107,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.52",
+    "moyenne": 39.49
   },
   {
     "id": 967,
@@ -5560,46 +5620,6 @@
     "moyenne": null
   },
   {
-    "id": 765,
-    "prenom": "Dimitri",
-    "nom": "Delibes",
-    "nationalite": "FRA",
-    "poste": "AIL",
-    "poste_secondaire": "CEN",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 190,
-    "poids_kg": 98,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.52",
-    "moyenne": 43.17
-  },
-  {
-    "id": 521,
-    "prenom": "Samuel",
-    "nom": "Ezeala",
-    "nationalite": "ESP",
-    "poste": "AIL",
-    "poste_secondaire": "CEN",
-    "poste_tertiaire": null,
-    "indisponible": true,
-    "taille_cm": 187,
-    "poids_kg": 99,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.52",
-    "moyenne": null
-  },
-  {
     "id": 1234,
     "prenom": "Gonzalo",
     "nom": "Garcia",
@@ -5617,7 +5637,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.52",
-    "moyenne": 42.14
+    "moyenne": 45.995
   },
   {
     "id": 245,
@@ -5637,7 +5657,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.52",
-    "moyenne": null
+    "moyenne": 64.9
   },
   {
     "id": 969,
@@ -5657,7 +5677,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.52",
-    "moyenne": 70.02
+    "moyenne": 52.015
   },
   {
     "id": 474,
@@ -5677,7 +5697,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.52",
-    "moyenne": 57.66
+    "moyenne": 66.61
   },
   {
     "id": 41,
@@ -5697,27 +5717,27 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.52",
-    "moyenne": 60.52
+    "moyenne": 62.625
   },
   {
-    "id": 130,
-    "prenom": "Mikheili",
-    "nom": "Shioshvili",
-    "nationalite": "GEO",
-    "poste": "N8",
-    "poste_secondaire": null,
+    "id": 429,
+    "prenom": "Paul",
+    "nom": "Surano",
+    "nationalite": "FRA",
+    "poste": "ARR",
+    "poste_secondaire": "AIL",
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 193,
-    "poids_kg": 117,
+    "taille_cm": 180,
+    "poids_kg": 85,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
     "valeur": "0.52",
-    "moyenne": null
+    "moyenne": 72.04666666666667
   },
   {
     "id": 955,
@@ -5737,27 +5757,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.52",
-    "moyenne": 50.96
+    "moyenne": 65.47
   },
   {
-    "id": 657,
-    "prenom": "Quentin",
-    "nom": "Walcker",
+    "id": 622,
+    "prenom": "Florent",
+    "nom": "Vanverberghe",
     "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
+    "poste": "DL",
+    "poste_secondaire": "TL",
+    "poste_tertiaire": "N8",
     "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 109,
-    "pilier_cote": "1",
-    "dl_cote": null,
+    "taille_cm": 198,
+    "poids_kg": 120,
+    "pilier_cote": null,
+    "dl_cote": "45",
     "club": "CO",
     "club_nom": "Castres Olympique",
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.52",
-    "moyenne": 59.64
+    "moyenne": 76.2
   },
   {
     "id": 784,
@@ -5797,7 +5817,27 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.51",
-    "moyenne": null
+    "moyenne": 59.31
+  },
+  {
+    "id": 431,
+    "prenom": "Pierre",
+    "nom": "Boudehent",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 196,
+    "poids_kg": 107,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
+    "valeur": "0.51",
+    "moyenne": 68.92
   },
   {
     "id": 366,
@@ -5817,7 +5857,47 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.51",
-    "moyenne": 55.39
+    "moyenne": 60.38666666666666
+  },
+  {
+    "id": 1129,
+    "prenom": "Tom",
+    "nom": "Ecochard",
+    "nationalite": "FRA",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 173,
+    "poids_kg": 85,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
+    "valeur": "0.51",
+    "moyenne": 77.83
+  },
+  {
+    "id": 130,
+    "prenom": "Mikheili",
+    "nom": "Shioshvili",
+    "nationalite": "GEO",
+    "poste": "N8",
+    "poste_secondaire": "DL",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 193,
+    "poids_kg": 117,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.51",
+    "moyenne": 57.15
   },
   {
     "id": 227,
@@ -5827,7 +5907,7 @@
     "poste": "N8",
     "poste_secondaire": "TL",
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 191,
     "poids_kg": 104,
     "pilier_cote": null,
@@ -5838,46 +5918,6 @@
     "couleur2_hex": "#bb0f20",
     "valeur": "0.51",
     "moyenne": 82.71
-  },
-  {
-    "id": 429,
-    "prenom": "Paul",
-    "nom": "Surano",
-    "nationalite": "FRA",
-    "poste": "ARR",
-    "poste_secondaire": "AIL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 180,
-    "poids_kg": 85,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.51",
-    "moyenne": 76.41
-  },
-  {
-    "id": 622,
-    "prenom": "Florent",
-    "nom": "Vanverberghe",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": "TL",
-    "poste_tertiaire": "N8",
-    "indisponible": false,
-    "taille_cm": 198,
-    "poids_kg": 120,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.51",
-    "moyenne": 78.63
   },
   {
     "id": 25,
@@ -5897,27 +5937,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.50",
-    "moyenne": 63.96
-  },
-  {
-    "id": 431,
-    "prenom": "Pierre",
-    "nom": "Boudehent",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 196,
-    "poids_kg": 107,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.50",
-    "moyenne": 57.26
+    "moyenne": 59.125
   },
   {
     "id": 1048,
@@ -5937,27 +5957,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.50",
-    "moyenne": 75.72
-  },
-  {
-    "id": 1129,
-    "prenom": "Tom",
-    "nom": "Ecochard",
-    "nationalite": "FRA",
-    "poste": "DM",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 173,
-    "poids_kg": 85,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.50",
-    "moyenne": null
+    "moyenne": 60.086666666666666
   },
   {
     "id": 160,
@@ -5998,6 +5998,26 @@
     "couleur2_hex": "#000000",
     "valeur": "0.50",
     "moyenne": null
+  },
+  {
+    "id": 257,
+    "prenom": "Killian",
+    "nom": "Geraci",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 200,
+    "poids_kg": 115,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "AB",
+    "club_nom": "Aviron Bayonnais",
+    "couleur_hex": "#6dbce3",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.50",
+    "moyenne": 77.74333333333334
   },
   {
     "id": 1107,
@@ -6057,7 +6077,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.50",
-    "moyenne": 50.44
+    "moyenne": 50.33
   },
   {
     "id": 701,
@@ -6100,6 +6120,26 @@
     "moyenne": null
   },
   {
+    "id": 325,
+    "prenom": "Louis",
+    "nom": "Penverne",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 111,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "SR",
+    "club_nom": "Stade Rochelais",
+    "couleur_hex": "#f0c133",
+    "couleur2_hex": "#000000",
+    "valeur": "0.50",
+    "moyenne": 77.23333333333333
+  },
+  {
     "id": 759,
     "prenom": "Celian",
     "nom": "Pouzelgues",
@@ -6107,7 +6147,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 190,
     "poids_kg": 93,
     "pilier_cote": null,
@@ -6137,7 +6177,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.50",
-    "moyenne": null
+    "moyenne": 61.58
   },
   {
     "id": 435,
@@ -6177,7 +6217,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.50",
-    "moyenne": null
+    "moyenne": 44.12
   },
   {
     "id": 31,
@@ -6217,7 +6257,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.49",
-    "moyenne": null
+    "moyenne": 74
   },
   {
     "id": 660,
@@ -6237,7 +6277,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.49",
-    "moyenne": 74.14
+    "moyenne": 64.85
   },
   {
     "id": 971,
@@ -6257,27 +6297,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.49",
-    "moyenne": 43.3
-  },
-  {
-    "id": 257,
-    "prenom": "Killian",
-    "nom": "Geraci",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 200,
-    "poids_kg": 115,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "AB",
-    "club_nom": "Aviron Bayonnais",
-    "couleur_hex": "#6dbce3",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.49",
-    "moyenne": 85.13
+    "moyenne": 66.33
   },
   {
     "id": 112,
@@ -6297,27 +6317,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.49",
-    "moyenne": null
-  },
-  {
-    "id": 325,
-    "prenom": "Louis",
-    "nom": "Penverne",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 187,
-    "poids_kg": 111,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "SR",
-    "club_nom": "Stade Rochelais",
-    "couleur_hex": "#f0c133",
-    "couleur2_hex": "#000000",
-    "valeur": "0.49",
-    "moyenne": 74.53
+    "moyenne": 59.525
   },
   {
     "id": 380,
@@ -6337,7 +6337,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.48",
-    "moyenne": null
+    "moyenne": 65.965
   },
   {
     "id": 714,
@@ -6357,7 +6357,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.48",
-    "moyenne": 72.85
+    "moyenne": 63.695
   },
   {
     "id": 136,
@@ -6377,7 +6377,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.48",
-    "moyenne": 69.77
+    "moyenne": 72.215
   },
   {
     "id": 153,
@@ -6397,7 +6397,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.48",
-    "moyenne": 45.28
+    "moyenne": 53.86666666666667
   },
   {
     "id": 1190,
@@ -6467,7 +6467,7 @@
     "poste": "ARR",
     "poste_secondaire": "AIL",
     "poste_tertiaire": "CEN",
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 186,
     "poids_kg": 96,
     "pilier_cote": null,
@@ -6477,7 +6477,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.48",
-    "moyenne": null
+    "moyenne": 72.58
   },
   {
     "id": 204,
@@ -6577,7 +6577,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.47",
-    "moyenne": 83.85
+    "moyenne": 61.88
   },
   {
     "id": 237,
@@ -6597,7 +6597,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.47",
-    "moyenne": 79.7
+    "moyenne": 67.705
   },
   {
     "id": 999,
@@ -6620,6 +6620,26 @@
     "moyenne": null
   },
   {
+    "id": 502,
+    "prenom": "Mathieu",
+    "nom": "Hirigoyen",
+    "nationalite": "FRA",
+    "poste": "TL",
+    "poste_secondaire": "N8",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 194,
+    "poids_kg": 95,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.47",
+    "moyenne": 78.66
+  },
+  {
     "id": 299,
     "prenom": "Aleksandre",
     "nom": "Kuntelia",
@@ -6637,7 +6657,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.47",
-    "moyenne": 73.74
+    "moyenne": 68.69666666666667
   },
   {
     "id": 1235,
@@ -6657,7 +6677,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.47",
-    "moyenne": 89.58
+    "moyenne": 79.96
   },
   {
     "id": 477,
@@ -6697,7 +6717,27 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.47",
-    "moyenne": 42.14
+    "moyenne": 48.15
+  },
+  {
+    "id": 1156,
+    "prenom": "Kyllian",
+    "nom": "Ringuet",
+    "nationalite": "FRA",
+    "poste": "TL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.47",
+    "moyenne": 75.97
   },
   {
     "id": 333,
@@ -6717,7 +6757,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.46",
-    "moyenne": null
+    "moyenne": 50.04
   },
   {
     "id": 235,
@@ -6737,7 +6777,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.46",
-    "moyenne": 39.17
+    "moyenne": 49.21333333333333
   },
   {
     "id": 636,
@@ -6757,27 +6797,27 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.46",
-    "moyenne": 73.01
+    "moyenne": 62.48
   },
   {
-    "id": 502,
-    "prenom": "Mathieu",
-    "nom": "Hirigoyen",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": "N8",
+    "id": 1197,
+    "prenom": "Adam",
+    "nom": "Hastings",
+    "nationalite": "ECO",
+    "poste": "OUV",
+    "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 194,
-    "poids_kg": 95,
+    "taille_cm": null,
+    "poids_kg": null,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
     "valeur": "0.46",
-    "moyenne": null
+    "moyenne": 64.705
   },
   {
     "id": 66,
@@ -6798,6 +6838,26 @@
     "couleur2_hex": "#ffffff",
     "valeur": "0.46",
     "moyenne": null
+  },
+  {
+    "id": 1013,
+    "prenom": "Luka",
+    "nom": "Japaridze",
+    "nationalite": "GEO",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 181,
+    "poids_kg": 125,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.46",
+    "moyenne": 76.23
   },
   {
     "id": 530,
@@ -6837,7 +6897,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.46",
-    "moyenne": 75.59
+    "moyenne": 64.79666666666667
   },
   {
     "id": 36,
@@ -6845,7 +6905,7 @@
     "nom": "Swinton",
     "nationalite": "AUS",
     "poste": "TL",
-    "poste_secondaire": null,
+    "poste_secondaire": "N8",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 195,
@@ -6857,7 +6917,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.46",
-    "moyenne": null
+    "moyenne": 70.43
   },
   {
     "id": 1074,
@@ -6877,7 +6937,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.46",
-    "moyenne": null
+    "moyenne": 53.39
   },
   {
     "id": 50,
@@ -6897,7 +6957,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.46",
-    "moyenne": 60.18
+    "moyenne": 59.67
   },
   {
     "id": 600,
@@ -6917,7 +6977,27 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.46",
-    "moyenne": 72.17
+    "moyenne": 74.655
+  },
+  {
+    "id": 763,
+    "prenom": "Cyril",
+    "nom": "Baille",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 118,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "ST",
+    "club_nom": "Stade Toulousain",
+    "couleur_hex": "#b61931",
+    "couleur2_hex": "#000000",
+    "valeur": "0.45",
+    "moyenne": 72.885
   },
   {
     "id": 859,
@@ -6937,7 +7017,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.45",
-    "moyenne": 59.53
+    "moyenne": 53.115
   },
   {
     "id": 669,
@@ -6957,7 +7037,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.45",
-    "moyenne": 73.45
+    "moyenne": 62.00333333333333
   },
   {
     "id": 979,
@@ -6977,47 +7057,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.45",
-    "moyenne": 69.47
-  },
-  {
-    "id": 1197,
-    "prenom": "Adam",
-    "nom": "Hastings",
-    "nationalite": "ECO",
-    "poste": "OUV",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.45",
-    "moyenne": 43.8
-  },
-  {
-    "id": 1013,
-    "prenom": "Luka",
-    "nom": "Japaridze",
-    "nationalite": "GEO",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 125,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.45",
-    "moyenne": 72.38
+    "moyenne": 56.37
   },
   {
     "id": 168,
@@ -7027,7 +7067,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 180,
     "poids_kg": 120,
     "pilier_cote": "13",
@@ -7077,7 +7117,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.45",
-    "moyenne": 54.77
+    "moyenne": 62.125
   },
   {
     "id": 807,
@@ -7097,7 +7137,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.45",
-    "moyenne": 46.77
+    "moyenne": 51.9
   },
   {
     "id": 693,
@@ -7140,26 +7180,6 @@
     "moyenne": null
   },
   {
-    "id": 1156,
-    "prenom": "Kyllian",
-    "nom": "Ringuet",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.45",
-    "moyenne": 77.16
-  },
-  {
     "id": 16,
     "prenom": "Connor",
     "nom": "Sa",
@@ -7197,7 +7217,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.45",
-    "moyenne": null
+    "moyenne": 53.16
   },
   {
     "id": 1222,
@@ -7237,7 +7257,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.45",
-    "moyenne": null
+    "moyenne": 68.54
   },
   {
     "id": 184,
@@ -7267,7 +7287,7 @@
     "poste": "DL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 195,
     "poids_kg": 107,
     "pilier_cote": null,
@@ -7277,7 +7297,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.45",
-    "moyenne": null
+    "moyenne": 56.19
   },
   {
     "id": 848,
@@ -7297,7 +7317,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.45",
-    "moyenne": null
+    "moyenne": 54.295
   },
   {
     "id": 1084,
@@ -7317,27 +7337,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.45",
-    "moyenne": null
-  },
-  {
-    "id": 763,
-    "prenom": "Cyril",
-    "nom": "Baille",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 118,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "ST",
-    "club_nom": "Stade Toulousain",
-    "couleur_hex": "#b61931",
-    "couleur2_hex": "#000000",
-    "valeur": "0.44",
-    "moyenne": null
+    "moyenne": 61.25
   },
   {
     "id": 411,
@@ -7357,7 +7357,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.44",
-    "moyenne": null
+    "moyenne": 66.68
   },
   {
     "id": 691,
@@ -7377,7 +7377,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.44",
-    "moyenne": 56.15
+    "moyenne": 56.645
   },
   {
     "id": 1161,
@@ -7397,7 +7397,27 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.44",
-    "moyenne": null
+    "moyenne": 69.01
+  },
+  {
+    "id": 479,
+    "prenom": "Jack",
+    "nom": "Iscaro",
+    "nationalite": "USA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 187,
+    "poids_kg": 122,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "SFP",
+    "club_nom": "Stade Français Paris",
+    "couleur_hex": "#fa81b7",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.44",
+    "moyenne": 78.26
   },
   {
     "id": 894,
@@ -7457,7 +7477,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.44",
-    "moyenne": null
+    "moyenne": 69.205
   },
   {
     "id": 888,
@@ -7477,7 +7497,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.44",
-    "moyenne": 63.51
+    "moyenne": 53.365
   },
   {
     "id": 930,
@@ -7497,7 +7517,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.44",
-    "moyenne": 72.07
+    "moyenne": 67.03
+  },
+  {
+    "id": 1116,
+    "prenom": "Pietro",
+    "nom": "Ceccarelli",
+    "nationalite": "ITA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 184,
+    "poids_kg": 115,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
+    "valeur": "0.43",
+    "moyenne": 70.60666666666667
   },
   {
     "id": 134,
@@ -7505,7 +7545,7 @@
     "nom": "Cowie",
     "nationalite": "FRA",
     "poste": "CEN",
-    "poste_secondaire": null,
+    "poste_secondaire": "AIL",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 193,
@@ -7517,7 +7557,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.43",
-    "moyenne": null
+    "moyenne": 76.15
   },
   {
     "id": 918,
@@ -7537,7 +7577,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.43",
-    "moyenne": 69.81
+    "moyenne": 70.17
   },
   {
     "id": 1176,
@@ -7560,24 +7600,24 @@
     "moyenne": null
   },
   {
-    "id": 479,
-    "prenom": "Jack",
-    "nom": "Iscaro",
-    "nationalite": "USA",
-    "poste": "PIL",
-    "poste_secondaire": null,
+    "id": 1219,
+    "prenom": "Ioane",
+    "nom": "Iashagashvili",
+    "nationalite": "GEO",
+    "poste": "TL",
+    "poste_secondaire": "N8",
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 187,
-    "poids_kg": 122,
-    "pilier_cote": "1",
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
     "dl_cote": null,
-    "club": "SFP",
-    "club_nom": "Stade Français Paris",
-    "couleur_hex": "#fa81b7",
-    "couleur2_hex": "#ffffff",
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
     "valeur": "0.43",
-    "moyenne": null
+    "moyenne": 68.24333333333334
   },
   {
     "id": 239,
@@ -7597,7 +7637,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.43",
-    "moyenne": null
+    "moyenne": 53.47
   },
   {
     "id": 498,
@@ -7617,7 +7657,27 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.43",
-    "moyenne": 65.55
+    "moyenne": 68.715
+  },
+  {
+    "id": 115,
+    "prenom": "Leo",
+    "nom": "Ametlla",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 186,
+    "poids_kg": 107,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.42",
+    "moyenne": 77.32333333333334
   },
   {
     "id": 68,
@@ -7637,27 +7697,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.42",
-    "moyenne": null
-  },
-  {
-    "id": 1116,
-    "prenom": "Pietro",
-    "nom": "Ceccarelli",
-    "nationalite": "ITA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 184,
-    "poids_kg": 115,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.42",
-    "moyenne": 47.35
+    "moyenne": 47.81
   },
   {
     "id": 886,
@@ -7677,7 +7717,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.42",
-    "moyenne": 72.86
+    "moyenne": 60.553333333333335
   },
   {
     "id": 682,
@@ -7697,7 +7737,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.42",
-    "moyenne": 45.95
+    "moyenne": 56.016666666666666
   },
   {
     "id": 443,
@@ -7717,7 +7757,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.42",
-    "moyenne": 69.64
+    "moyenne": 58.885
   },
   {
     "id": 1177,
@@ -7757,7 +7797,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.42",
-    "moyenne": 47.54
+    "moyenne": 67.57333333333334
   },
   {
     "id": 522,
@@ -7797,7 +7837,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.42",
-    "moyenne": 74.84
+    "moyenne": 71.54333333333334
   },
   {
     "id": 87,
@@ -7807,7 +7847,7 @@
     "poste": "DL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 203,
     "poids_kg": 107,
     "pilier_cote": null,
@@ -7817,7 +7857,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.42",
-    "moyenne": null
+    "moyenne": 63.2
   },
   {
     "id": 828,
@@ -7847,7 +7887,7 @@
     "poste": "N8",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 191,
     "poids_kg": 120,
     "pilier_cote": null,
@@ -7858,6 +7898,26 @@
     "couleur2_hex": "#2a62cb",
     "valeur": "0.42",
     "moyenne": null
+  },
+  {
+    "id": 1247,
+    "prenom": "Maelan",
+    "nom": "Rabut",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
+    "valeur": "0.42",
+    "moyenne": 79.76666666666667
   },
   {
     "id": 106,
@@ -7897,27 +7957,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.42",
-    "moyenne": 53.72
+    "moyenne": 52.623333333333335
   },
   {
-    "id": 115,
-    "prenom": "Leo",
-    "nom": "Ametlla",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
+    "id": 1204,
+    "prenom": "Seru",
+    "nom": "Uru",
+    "nationalite": "AUS",
+    "poste": "DL",
+    "poste_secondaire": "TL",
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 186,
-    "poids_kg": 107,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.41",
-    "moyenne": 83.76
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.42",
+    "moyenne": 72.10333333333334
   },
   {
     "id": 1010,
@@ -7927,7 +7987,7 @@
     "poste": "CEN",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 184,
     "poids_kg": 101,
     "pilier_cote": null,
@@ -7937,7 +7997,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.41",
-    "moyenne": null
+    "moyenne": 72.54
   },
   {
     "id": 377,
@@ -7957,27 +8017,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.41",
-    "moyenne": 78.23
-  },
-  {
-    "id": 675,
-    "prenom": "Will",
-    "nom": "Collier",
-    "nationalite": "ANG",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 183,
-    "poids_kg": 120,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "CO",
-    "club_nom": "Castres Olympique",
-    "couleur_hex": "#093ca9",
-    "couleur2_hex": "#dbe2ea",
-    "valeur": "0.41",
-    "moyenne": 39.91
+    "moyenne": 67.885
   },
   {
     "id": 456,
@@ -7997,87 +8037,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.41",
-    "moyenne": 89.14
-  },
-  {
-    "id": 1219,
-    "prenom": "Ioane",
-    "nom": "Iashagashvili",
-    "nationalite": "GEO",
-    "poste": "TL",
-    "poste_secondaire": "N8",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.41",
-    "moyenne": 64.2
-  },
-  {
-    "id": 440,
-    "prenom": "Santiago",
-    "nom": "Medrano",
-    "nationalite": "ARG",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 185,
-    "poids_kg": 118,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.41",
-    "moyenne": 75.24
-  },
-  {
-    "id": 1247,
-    "prenom": "Maelan",
-    "nom": "Rabut",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.41",
-    "moyenne": 79.07
-  },
-  {
-    "id": 1204,
-    "prenom": "Seru",
-    "nom": "Uru",
-    "nationalite": "AUS",
-    "poste": "DL",
-    "poste_secondaire": "TL",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "R92",
-    "club_nom": "Racing 92",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#97bde3",
-    "valeur": "0.41",
-    "moyenne": 70.16
+    "moyenne": 68.135
   },
   {
     "id": 208,
@@ -8097,7 +8057,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.40",
-    "moyenne": null
+    "moyenne": 45.26
   },
   {
     "id": 447,
@@ -8117,7 +8077,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.40",
-    "moyenne": null
+    "moyenne": 78.38
   },
   {
     "id": 1095,
@@ -8158,6 +8118,26 @@
     "couleur2_hex": "#ffffff",
     "valeur": "0.40",
     "moyenne": null
+  },
+  {
+    "id": 675,
+    "prenom": "Will",
+    "nom": "Collier",
+    "nationalite": "ANG",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": true,
+    "taille_cm": 183,
+    "poids_kg": 120,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "CO",
+    "club_nom": "Castres Olympique",
+    "couleur_hex": "#093ca9",
+    "couleur2_hex": "#dbe2ea",
+    "valeur": "0.40",
+    "moyenne": 40.83
   },
   {
     "id": 623,
@@ -8217,7 +8197,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.40",
-    "moyenne": null
+    "moyenne": 49.57
   },
   {
     "id": 419,
@@ -8237,7 +8217,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.40",
-    "moyenne": 43.84
+    "moyenne": 58.913333333333334
   },
   {
     "id": 639,
@@ -8247,7 +8227,7 @@
     "poste": "OUV",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 188,
     "poids_kg": 100,
     "pilier_cote": null,
@@ -8257,7 +8237,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.40",
-    "moyenne": 71.28
+    "moyenne": 69
   },
   {
     "id": 1102,
@@ -8297,7 +8277,27 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.40",
-    "moyenne": 67.15
+    "moyenne": 70.235
+  },
+  {
+    "id": 440,
+    "prenom": "Santiago",
+    "nom": "Medrano",
+    "nationalite": "ARG",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 185,
+    "poids_kg": 118,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
+    "valeur": "0.40",
+    "moyenne": 55.45
   },
   {
     "id": 843,
@@ -8317,7 +8317,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.40",
-    "moyenne": null
+    "moyenne": 73.18
   },
   {
     "id": 139,
@@ -8327,7 +8327,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 190,
     "poids_kg": 100,
     "pilier_cote": null,
@@ -8337,7 +8337,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.40",
-    "moyenne": 63.65
+    "moyenne": 57.55
   },
   {
     "id": 291,
@@ -8377,7 +8377,27 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.40",
-    "moyenne": null
+    "moyenne": 48.53
+  },
+  {
+    "id": 973,
+    "prenom": "Arthur",
+    "nom": "Vincent",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 92,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.40",
+    "moyenne": 59.43666666666667
   },
   {
     "id": 637,
@@ -8397,7 +8417,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.40",
-    "moyenne": 58.05
+    "moyenne": 55.04666666666667
   },
   {
     "id": 1068,
@@ -8417,7 +8437,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.39",
-    "moyenne": 50.5
+    "moyenne": 58.13
   },
   {
     "id": 417,
@@ -8437,7 +8457,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.39",
-    "moyenne": 86.79
+    "moyenne": 68.635
   },
   {
     "id": 1223,
@@ -8517,7 +8537,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.39",
-    "moyenne": 38.85
+    "moyenne": 61.855
   },
   {
     "id": 215,
@@ -8538,26 +8558,6 @@
     "couleur2_hex": "#bb0f20",
     "valeur": "0.39",
     "moyenne": null
-  },
-  {
-    "id": 973,
-    "prenom": "Arthur",
-    "nom": "Vincent",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 92,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
-    "valeur": "0.39",
-    "moyenne": 37.1
   },
   {
     "id": 739,
@@ -8677,7 +8677,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.38",
-    "moyenne": null
+    "moyenne": 68.075
   },
   {
     "id": 697,
@@ -8687,7 +8687,7 @@
     "poste": "TAL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 180,
     "poids_kg": 103,
     "pilier_cote": null,
@@ -8697,7 +8697,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.38",
-    "moyenne": 61.83
+    "moyenne": 68.445
   },
   {
     "id": 122,
@@ -8717,7 +8717,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.38",
-    "moyenne": 58.14
+    "moyenne": 65.7
   },
   {
     "id": 236,
@@ -8737,7 +8737,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.38",
-    "moyenne": 39.54
+    "moyenne": 50.995
   },
   {
     "id": 273,
@@ -8757,7 +8757,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.38",
-    "moyenne": 45.34
+    "moyenne": 61.18333333333333
   },
   {
     "id": 1113,
@@ -8857,7 +8857,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.37",
-    "moyenne": 38.01
+    "moyenne": 41.10333333333333
   },
   {
     "id": 167,
@@ -8877,7 +8877,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.37",
-    "moyenne": null
+    "moyenne": 56.65
   },
   {
     "id": 359,
@@ -8887,7 +8887,7 @@
     "poste": "CEN",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 187,
     "poids_kg": 103,
     "pilier_cote": null,
@@ -8897,7 +8897,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.37",
-    "moyenne": 46.79
+    "moyenne": 59.615
   },
   {
     "id": 334,
@@ -8917,7 +8917,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.37",
-    "moyenne": null
+    "moyenne": 63.35
   },
   {
     "id": 1253,
@@ -8977,7 +8977,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.36",
-    "moyenne": 61.92
+    "moyenne": 72.89666666666666
   },
   {
     "id": 704,
@@ -8997,7 +8997,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.36",
-    "moyenne": 69.41
+    "moyenne": 68.345
   },
   {
     "id": 898,
@@ -9017,7 +9017,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.36",
-    "moyenne": 44.43
+    "moyenne": 55.78666666666667
   },
   {
     "id": 1008,
@@ -9077,7 +9077,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.36",
-    "moyenne": 40.35
+    "moyenne": 49.135
   },
   {
     "id": 381,
@@ -9097,7 +9097,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.36",
-    "moyenne": null
+    "moyenne": 59.41
   },
   {
     "id": 67,
@@ -9117,7 +9117,7 @@
     "couleur_hex": "#5a2432",
     "couleur2_hex": "#ffffff",
     "valeur": "0.36",
-    "moyenne": 84.9
+    "moyenne": 76.815
   },
   {
     "id": 1169,
@@ -9157,7 +9157,7 @@
     "couleur_hex": "#b61931",
     "couleur2_hex": "#000000",
     "valeur": "0.35",
-    "moyenne": null
+    "moyenne": 61.55
   },
   {
     "id": 1203,
@@ -9177,7 +9177,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.35",
-    "moyenne": null
+    "moyenne": 73.555
   },
   {
     "id": 497,
@@ -9277,27 +9277,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.35",
-    "moyenne": 72.11
-  },
-  {
-    "id": 1191,
-    "prenom": "Marvin",
-    "nom": "Okuya",
-    "nationalite": "FRA",
-    "poste": "TL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.35",
-    "moyenne": null
+    "moyenne": 68.435
   },
   {
     "id": 820,
@@ -9337,7 +9317,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.35",
-    "moyenne": 59.52
+    "moyenne": 60.45
   },
   {
     "id": 866,
@@ -9347,7 +9327,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 185,
     "poids_kg": 113,
     "pilier_cote": "1",
@@ -9377,7 +9357,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.35",
-    "moyenne": 74.57
+    "moyenne": 63.43333333333333
   },
   {
     "id": 524,
@@ -9440,24 +9420,44 @@
     "moyenne": 75.61
   },
   {
-    "id": 162,
-    "prenom": "Edouard-Junior",
-    "nom": "Jabea Njocke",
+    "id": 1133,
+    "prenom": "Victor",
+    "nom": "Montgaillard",
     "nationalite": "FRA",
-    "poste": "PIL",
+    "poste": "TAL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 178,
-    "poids_kg": 118,
-    "pilier_cote": "1",
+    "taille_cm": 181,
+    "poids_kg": 108,
+    "pilier_cote": null,
     "dl_cote": null,
-    "club": "R92",
-    "club_nom": "Racing 92",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#97bde3",
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
     "valeur": "0.34",
-    "moyenne": 33.25
+    "moyenne": 78.34666666666666
+  },
+  {
+    "id": 1191,
+    "prenom": "Marvin",
+    "nom": "Okuya",
+    "nationalite": "FRA",
+    "poste": "TL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.34",
+    "moyenne": 37.97
   },
   {
     "id": 275,
@@ -9477,7 +9477,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.34",
-    "moyenne": null
+    "moyenne": 59.81
   },
   {
     "id": 868,
@@ -9517,7 +9517,27 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.33",
-    "moyenne": 83.22
+    "moyenne": 74.42666666666666
+  },
+  {
+    "id": 1057,
+    "prenom": "Antoine",
+    "nom": "Aucagne",
+    "nationalite": "FRA",
+    "poste": "OUV",
+    "poste_secondaire": "ARR",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 184,
+    "poids_kg": 80,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "USAP",
+    "club_nom": "USA Perpignan",
+    "couleur_hex": "#53a9c0",
+    "couleur2_hex": "#ebd069",
+    "valeur": "0.33",
+    "moyenne": 67.37333333333333
   },
   {
     "id": 218,
@@ -9537,7 +9557,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.33",
-    "moyenne": 64.42
+    "moyenne": 70.58
   },
   {
     "id": 1112,
@@ -9557,7 +9577,27 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.33",
-    "moyenne": 77.91
+    "moyenne": 59.45666666666666
+  },
+  {
+    "id": 162,
+    "prenom": "Edouard-Junior",
+    "nom": "Jabea Njocke",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 178,
+    "poids_kg": 118,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.33",
+    "moyenne": 49.21666666666667
   },
   {
     "id": 1066,
@@ -9580,46 +9620,6 @@
     "moyenne": null
   },
   {
-    "id": 453,
-    "prenom": "Timothe",
-    "nom": "Mezou",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 202,
-    "poids_kg": 118,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.33",
-    "moyenne": 69.51
-  },
-  {
-    "id": 298,
-    "prenom": "Adrien",
-    "nom": "Seguret",
-    "nationalite": "FRA",
-    "poste": "CEN",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 95,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
-    "valeur": "0.33",
-    "moyenne": null
-  },
-  {
     "id": 907,
     "prenom": "Emerick",
     "nom": "Setiano",
@@ -9637,7 +9637,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.33",
-    "moyenne": 68.54
+    "moyenne": 59.986666666666665
   },
   {
     "id": 124,
@@ -9697,27 +9697,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.32",
-    "moyenne": null
-  },
-  {
-    "id": 1057,
-    "prenom": "Antoine",
-    "nom": "Aucagne",
-    "nationalite": "FRA",
-    "poste": "OUV",
-    "poste_secondaire": "ARR",
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 184,
-    "poids_kg": 80,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
-    "valeur": "0.32",
-    "moyenne": 66.89
+    "moyenne": 48.19
   },
   {
     "id": 314,
@@ -9757,7 +9737,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.32",
-    "moyenne": null
+    "moyenne": 58.87
   },
   {
     "id": 899,
@@ -9777,47 +9757,27 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.32",
-    "moyenne": null
+    "moyenne": 42.16
   },
   {
-    "id": 300,
-    "prenom": "Alexandre",
-    "nom": "Kaddouri",
+    "id": 453,
+    "prenom": "Timothe",
+    "nom": "Mezou",
     "nationalite": "FRA",
-    "poste": "PIL",
+    "poste": "DL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 189,
-    "poids_kg": 114,
-    "pilier_cote": "1",
-    "dl_cote": null,
-    "club": "SR",
-    "club_nom": "Stade Rochelais",
-    "couleur_hex": "#f0c133",
-    "couleur2_hex": "#000000",
-    "valeur": "0.32",
-    "moyenne": 67.74
-  },
-  {
-    "id": 1133,
-    "prenom": "Victor",
-    "nom": "Montgaillard",
-    "nationalite": "FRA",
-    "poste": "TAL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 108,
+    "taille_cm": 202,
+    "poids_kg": 118,
     "pilier_cote": null,
-    "dl_cote": null,
-    "club": "USAP",
-    "club_nom": "USA Perpignan",
-    "couleur_hex": "#53a9c0",
-    "couleur2_hex": "#ebd069",
+    "dl_cote": "45",
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
     "valeur": "0.32",
-    "moyenne": 72.64
+    "moyenne": 42.31666666666667
   },
   {
     "id": 625,
@@ -9858,6 +9818,26 @@
     "couleur2_hex": "#1a2371",
     "valeur": "0.32",
     "moyenne": null
+  },
+  {
+    "id": 298,
+    "prenom": "Adrien",
+    "nom": "Seguret",
+    "nationalite": "FRA",
+    "poste": "CEN",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 95,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.32",
+    "moyenne": 43.205
   },
   {
     "id": 421,
@@ -9920,6 +9900,106 @@
     "moyenne": 63.88
   },
   {
+    "id": 402,
+    "prenom": "Joe",
+    "nom": "Edwards",
+    "nationalite": "NZL",
+    "poste": "TL",
+    "poste_secondaire": "N8",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 194,
+    "poids_kg": 116,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "RCV",
+    "club_nom": "RC Vannes",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#1a2371",
+    "valeur": "0.31",
+    "moyenne": 69.56333333333333
+  },
+  {
+    "id": 300,
+    "prenom": "Alexandre",
+    "nom": "Kaddouri",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 189,
+    "poids_kg": 114,
+    "pilier_cote": "1",
+    "dl_cote": null,
+    "club": "SR",
+    "club_nom": "Stade Rochelais",
+    "couleur_hex": "#f0c133",
+    "couleur2_hex": "#000000",
+    "valeur": "0.31",
+    "moyenne": 52.92333333333333
+  },
+  {
+    "id": 938,
+    "prenom": "Maxime",
+    "nom": "Machenaud",
+    "nationalite": "FRA",
+    "poste": "DM",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 174,
+    "poids_kg": 87,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.31",
+    "moyenne": 72.595
+  },
+  {
+    "id": 220,
+    "prenom": "Arthur",
+    "nom": "Mathiron",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 182,
+    "poids_kg": 92,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "LOU",
+    "club_nom": "Lyon OU",
+    "couleur_hex": "#272528",
+    "couleur2_hex": "#bb0f20",
+    "valeur": "0.31",
+    "moyenne": 79.97
+  },
+  {
+    "id": 143,
+    "prenom": "Swan",
+    "nom": "Rebbadj",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 201,
+    "poids_kg": 115,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.31",
+    "moyenne": 73.84333333333333
+  },
+  {
     "id": 1244,
     "prenom": "Bradley",
     "nom": "Amituanai",
@@ -9937,7 +10017,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.30",
-    "moyenne": null
+    "moyenne": 60.895
   },
   {
     "id": 1061,
@@ -10007,7 +10087,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 183,
     "poids_kg": 85,
     "pilier_cote": null,
@@ -10018,26 +10098,6 @@
     "couleur2_hex": "#97bde3",
     "valeur": "0.30",
     "moyenne": null
-  },
-  {
-    "id": 402,
-    "prenom": "Joe",
-    "nom": "Edwards",
-    "nationalite": "NZL",
-    "poste": "TL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 194,
-    "poids_kg": 116,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCV",
-    "club_nom": "RC Vannes",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#1a2371",
-    "valeur": "0.30",
-    "moyenne": 57.95
   },
   {
     "id": 360,
@@ -10060,26 +10120,6 @@
     "moyenne": null
   },
   {
-    "id": 938,
-    "prenom": "Maxime",
-    "nom": "Machenaud",
-    "nationalite": "FRA",
-    "poste": "DM",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 174,
-    "poids_kg": 87,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "R92",
-    "club_nom": "Racing 92",
-    "couleur_hex": "#ffffff",
-    "couleur2_hex": "#97bde3",
-    "valeur": "0.30",
-    "moyenne": 67.7
-  },
-  {
     "id": 485,
     "prenom": "Juan",
     "nom": "Martin Scelzo",
@@ -10096,26 +10136,6 @@
     "club_nom": "Stade Français Paris",
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
-    "valeur": "0.30",
-    "moyenne": null
-  },
-  {
-    "id": 220,
-    "prenom": "Arthur",
-    "nom": "Mathiron",
-    "nationalite": "FRA",
-    "poste": "AIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 182,
-    "poids_kg": 92,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "LOU",
-    "club_nom": "Lyon OU",
-    "couleur_hex": "#272528",
-    "couleur2_hex": "#bb0f20",
     "valeur": "0.30",
     "moyenne": null
   },
@@ -10220,26 +10240,6 @@
     "moyenne": null
   },
   {
-    "id": 143,
-    "prenom": "Swan",
-    "nom": "Rebbadj",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 201,
-    "poids_kg": 115,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.30",
-    "moyenne": 61.75
-  },
-  {
     "id": 401,
     "prenom": "Joachim",
     "nom": "Senga Kouo",
@@ -10247,7 +10247,7 @@
     "poste": "ARR",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -10267,7 +10267,7 @@
     "poste": "DM",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 175,
     "poids_kg": 79,
     "pilier_cote": null,
@@ -10277,7 +10277,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.30",
-    "moyenne": null
+    "moyenne": 67.92
   },
   {
     "id": 1186,
@@ -10297,7 +10297,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.30",
-    "moyenne": null
+    "moyenne": 71.45
   },
   {
     "id": 1226,
@@ -10337,7 +10337,27 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.29",
-    "moyenne": null
+    "moyenne": 57.11
+  },
+  {
+    "id": 1259,
+    "prenom": "Watisoni",
+    "nom": "Waqanisaravi",
+    "nationalite": "FIJ",
+    "poste": "DL",
+    "poste_secondaire": "N8",
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "SR",
+    "club_nom": "Stade Rochelais",
+    "couleur_hex": "#f0c133",
+    "couleur2_hex": "#000000",
+    "valeur": "0.29",
+    "moyenne": 73.99
   },
   {
     "id": 326,
@@ -10360,6 +10380,26 @@
     "moyenne": null
   },
   {
+    "id": 748,
+    "prenom": "Yerim",
+    "nom": "Fall",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 178,
+    "poids_kg": 90,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ASM",
+    "club_nom": "ASM Clermont Auvergne",
+    "couleur_hex": "#f2c415",
+    "couleur2_hex": "#2a62cb",
+    "valeur": "0.28",
+    "moyenne": 74.37
+  },
+  {
     "id": 624,
     "prenom": "Gauthier",
     "nom": "Maravat",
@@ -10377,7 +10417,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.28",
-    "moyenne": 41.39
+    "moyenne": 57.065
   },
   {
     "id": 865,
@@ -10397,7 +10437,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.28",
-    "moyenne": null
+    "moyenne": 39
   },
   {
     "id": 424,
@@ -10407,7 +10447,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 189,
     "poids_kg": 119,
     "pilier_cote": "3",
@@ -10417,27 +10457,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.28",
-    "moyenne": null
-  },
-  {
-    "id": 748,
-    "prenom": "Yerim",
-    "nom": "Fall",
-    "nationalite": "FRA",
-    "poste": "AIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 178,
-    "poids_kg": 90,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ASM",
-    "club_nom": "ASM Clermont Auvergne",
-    "couleur_hex": "#f2c415",
-    "couleur2_hex": "#2a62cb",
-    "valeur": "0.27",
-    "moyenne": null
+    "moyenne": 69.18
   },
   {
     "id": 56,
@@ -10447,7 +10467,7 @@
     "poste": "TL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 194,
     "poids_kg": 92,
     "pilier_cote": null,
@@ -10497,7 +10517,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.27",
-    "moyenne": null
+    "moyenne": 49.4
   },
   {
     "id": 827,
@@ -10537,7 +10557,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.27",
-    "moyenne": 46.15
+    "moyenne": 51.733333333333334
   },
   {
     "id": 265,
@@ -10558,6 +10578,26 @@
     "couleur2_hex": "#bb0f20",
     "valeur": "0.26",
     "moyenne": null
+  },
+  {
+    "id": 138,
+    "prenom": "Pierre",
+    "nom": "Damond",
+    "nationalite": "FRA",
+    "poste": "TAL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 181,
+    "poids_kg": 103,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "RCT",
+    "club_nom": "RC Toulon",
+    "couleur_hex": "#e6001b",
+    "couleur2_hex": "#000000",
+    "valeur": "0.26",
+    "moyenne": 72.675
   },
   {
     "id": 276,
@@ -10617,7 +10657,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.25",
-    "moyenne": 53.31
+    "moyenne": 53.66
   },
   {
     "id": 416,
@@ -10677,27 +10717,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.25",
-    "moyenne": 57.93
-  },
-  {
-    "id": 138,
-    "prenom": "Pierre",
-    "nom": "Damond",
-    "nationalite": "FRA",
-    "poste": "TAL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": 181,
-    "poids_kg": 103,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "RCT",
-    "club_nom": "RC Toulon",
-    "couleur_hex": "#e6001b",
-    "couleur2_hex": "#000000",
-    "valeur": "0.25",
-    "moyenne": 68.67
+    "moyenne": 52.87
   },
   {
     "id": 686,
@@ -10717,7 +10737,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.25",
-    "moyenne": null
+    "moyenne": 48.64
   },
   {
     "id": 1188,
@@ -10757,7 +10777,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.25",
-    "moyenne": null
+    "moyenne": 75.975
   },
   {
     "id": 342,
@@ -10777,7 +10797,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.25",
-    "moyenne": null
+    "moyenne": 51.66
   },
   {
     "id": 1227,
@@ -10820,26 +10840,6 @@
     "moyenne": null
   },
   {
-    "id": 713,
-    "prenom": "Leo",
-    "nom": "Michaux",
-    "nationalite": "FRA",
-    "poste": "DL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": true,
-    "taille_cm": 203,
-    "poids_kg": 125,
-    "pilier_cote": null,
-    "dl_cote": "45",
-    "club": "ASM",
-    "club_nom": "ASM Clermont Auvergne",
-    "couleur_hex": "#f2c415",
-    "couleur2_hex": "#2a62cb",
-    "valeur": "0.25",
-    "moyenne": null
-  },
-  {
     "id": 1142,
     "prenom": "Peniami Nasali",
     "nom": "Narisia",
@@ -10857,7 +10857,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.25",
-    "moyenne": null
+    "moyenne": 58.83
   },
   {
     "id": 1212,
@@ -10917,7 +10917,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.25",
-    "moyenne": null
+    "moyenne": 74.87
   },
   {
     "id": 1046,
@@ -10937,7 +10937,7 @@
     "couleur_hex": "#18264d",
     "couleur2_hex": "#48a5db",
     "valeur": "0.25",
-    "moyenne": 62.02
+    "moyenne": 58.32333333333333
   },
   {
     "id": 1210,
@@ -10957,7 +10957,7 @@
     "couleur_hex": "#e6001b",
     "couleur2_hex": "#000000",
     "valeur": "0.24",
-    "moyenne": 41.66
+    "moyenne": 42.365
   },
   {
     "id": 1070,
@@ -10978,6 +10978,26 @@
     "couleur2_hex": "#ebd069",
     "valeur": "0.24",
     "moyenne": null
+  },
+  {
+    "id": 713,
+    "prenom": "Leo",
+    "nom": "Michaux",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 203,
+    "poids_kg": 125,
+    "pilier_cote": null,
+    "dl_cote": "45",
+    "club": "ASM",
+    "club_nom": "ASM Clermont Auvergne",
+    "couleur_hex": "#f2c415",
+    "couleur2_hex": "#2a62cb",
+    "valeur": "0.24",
+    "moyenne": 41.345
   },
   {
     "id": 70,
@@ -11017,7 +11037,7 @@
     "couleur_hex": "#093ca9",
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.22",
-    "moyenne": null
+    "moyenne": 57.05
   },
   {
     "id": 323,
@@ -11137,7 +11157,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.22",
-    "moyenne": 56.62
+    "moyenne": 60.07333333333333
   },
   {
     "id": 721,
@@ -11177,7 +11197,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.21",
-    "moyenne": null
+    "moyenne": 46.55
   },
   {
     "id": 724,
@@ -11187,7 +11207,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": 188,
     "poids_kg": 127,
     "pilier_cote": "1",
@@ -11197,7 +11217,27 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.21",
-    "moyenne": null
+    "moyenne": 48.6
+  },
+  {
+    "id": 1024,
+    "prenom": "Melvyn",
+    "nom": "Rates",
+    "nationalite": "FRA",
+    "poste": "AIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": 180,
+    "poids_kg": 84,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "MHR",
+    "club_nom": "Montpellier Hérault",
+    "couleur_hex": "#18264d",
+    "couleur2_hex": "#48a5db",
+    "valeur": "0.21",
+    "moyenne": 80.51
   },
   {
     "id": 480,
@@ -11217,7 +11257,7 @@
     "couleur_hex": "#fa81b7",
     "couleur2_hex": "#ffffff",
     "valeur": "0.20",
-    "moyenne": null
+    "moyenne": 62.72
   },
   {
     "id": 438,
@@ -11337,7 +11377,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.20",
-    "moyenne": null
+    "moyenne": 44.43
   },
   {
     "id": 1140,
@@ -11407,7 +11447,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": "1",
@@ -11560,24 +11600,24 @@
     "moyenne": null
   },
   {
-    "id": 1024,
-    "prenom": "Melvyn",
-    "nom": "Rates",
+    "id": 1261,
+    "prenom": "Arthur",
+    "nom": "Roche",
     "nationalite": "FRA",
-    "poste": "AIL",
+    "poste": "ARR",
     "poste_secondaire": null,
     "poste_tertiaire": null,
     "indisponible": false,
-    "taille_cm": 180,
-    "poids_kg": 84,
+    "taille_cm": null,
+    "poids_kg": null,
     "pilier_cote": null,
     "dl_cote": null,
-    "club": "MHR",
-    "club_nom": "Montpellier Hérault",
-    "couleur_hex": "#18264d",
-    "couleur2_hex": "#48a5db",
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
     "valeur": "0.20",
-    "moyenne": null
+    "moyenne": 64.61
   },
   {
     "id": 225,
@@ -11637,7 +11677,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.20",
-    "moyenne": 68.23
+    "moyenne": 62.623333333333335
   },
   {
     "id": 1194,
@@ -11700,6 +11740,26 @@
     "moyenne": null
   },
   {
+    "id": 1260,
+    "prenom": "Gagi",
+    "nom": "Margvelashvili",
+    "nationalite": "FRA",
+    "poste": "DL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": "5",
+    "club": "R92",
+    "club_nom": "Racing 92",
+    "couleur_hex": "#ffffff",
+    "couleur2_hex": "#97bde3",
+    "valeur": "0.19",
+    "moyenne": 52.46
+  },
+  {
     "id": 1162,
     "prenom": "Hugo",
     "nom": "Avogadro",
@@ -11757,7 +11817,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.18",
-    "moyenne": 71.77
+    "moyenne": 76.40333333333334
   },
   {
     "id": 689,
@@ -11797,7 +11857,7 @@
     "couleur_hex": "#043424",
     "couleur2_hex": "#ffffff",
     "valeur": "0.17",
-    "moyenne": 72.64
+    "moyenne": 69.96666666666667
   },
   {
     "id": 1153,
@@ -11907,7 +11967,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 174,
     "poids_kg": 77,
     "pilier_cote": null,
@@ -11925,7 +11985,7 @@
     "nom": "Ibo",
     "nationalite": "FRA",
     "poste": "ARR",
-    "poste_secondaire": null,
+    "poste_secondaire": "AIL",
     "poste_tertiaire": null,
     "indisponible": false,
     "taille_cm": 175,
@@ -11938,6 +11998,26 @@
     "couleur2_hex": "#ffffff",
     "valeur": "0.16",
     "moyenne": null
+  },
+  {
+    "id": 1144,
+    "prenom": "Kévin",
+    "nom": "Noah",
+    "nationalite": "FRA",
+    "poste": "N8",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": null,
+    "dl_cote": null,
+    "club": "ASM",
+    "club_nom": "ASM Clermont Auvergne",
+    "couleur_hex": "#f2c415",
+    "couleur2_hex": "#2a62cb",
+    "valeur": "0.16",
+    "moyenne": 68.52666666666667
   },
   {
     "id": 1158,
@@ -12017,7 +12097,7 @@
     "couleur_hex": "#f2c415",
     "couleur2_hex": "#2a62cb",
     "valeur": "0.15",
-    "moyenne": null
+    "moyenne": 63.16
   },
   {
     "id": 1254,
@@ -12137,7 +12217,7 @@
     "couleur_hex": "#53a9c0",
     "couleur2_hex": "#ebd069",
     "valeur": "0.15",
-    "moyenne": null
+    "moyenne": 40.8
   },
   {
     "id": 461,
@@ -12207,7 +12287,7 @@
     "poste": "PIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 189,
     "poids_kg": 132,
     "pilier_cote": "3",
@@ -12257,7 +12337,7 @@
     "couleur_hex": "#6dbce3",
     "couleur2_hex": "#ffffff",
     "valeur": "0.15",
-    "moyenne": null
+    "moyenne": 56.52
   },
   {
     "id": 1240,
@@ -12287,7 +12367,7 @@
     "poste": "TL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -12318,26 +12398,6 @@
     "couleur2_hex": "#dbe2ea",
     "valeur": "0.15",
     "moyenne": null
-  },
-  {
-    "id": 1144,
-    "prenom": "Kévin",
-    "nom": "Noah",
-    "nationalite": "FRA",
-    "poste": "N8",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": null,
-    "dl_cote": null,
-    "club": "ASM",
-    "club_nom": "ASM Clermont Auvergne",
-    "couleur_hex": "#f2c415",
-    "couleur2_hex": "#2a62cb",
-    "valeur": "0.15",
-    "moyenne": 70.61
   },
   {
     "id": 1228,
@@ -12457,7 +12517,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#1a2371",
     "valeur": "0.14",
-    "moyenne": null
+    "moyenne": 45.82
   },
   {
     "id": 1258,
@@ -12477,7 +12537,7 @@
     "couleur_hex": "#f0c133",
     "couleur2_hex": "#000000",
     "valeur": "0.12",
-    "moyenne": null
+    "moyenne": 62.39
   },
   {
     "id": 945,
@@ -12707,7 +12767,7 @@
     "poste": "TL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -12827,7 +12887,7 @@
     "poste": "DM",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": false,
+    "indisponible": true,
     "taille_cm": 174,
     "poids_kg": 73,
     "pilier_cote": null,
@@ -12960,26 +13020,6 @@
     "moyenne": null
   },
   {
-    "id": 1257,
-    "prenom": "Amir",
-    "nom": "Hattouma",
-    "nationalite": "FRA",
-    "poste": "PIL",
-    "poste_secondaire": null,
-    "poste_tertiaire": null,
-    "indisponible": false,
-    "taille_cm": null,
-    "poids_kg": null,
-    "pilier_cote": "3",
-    "dl_cote": null,
-    "club": "UBB",
-    "club_nom": "Union Bordeaux-Bègles",
-    "couleur_hex": "#5a2432",
-    "couleur2_hex": "#ffffff",
-    "valeur": "0.10",
-    "moyenne": null
-  },
-  {
     "id": 140,
     "prenom": "Samuel",
     "nom": "Jean Christophe",
@@ -13077,7 +13117,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.10",
-    "moyenne": 53.53
+    "moyenne": 53.22
   },
   {
     "id": 183,
@@ -13097,7 +13137,7 @@
     "couleur_hex": "#ffffff",
     "couleur2_hex": "#97bde3",
     "valeur": "0.10",
-    "moyenne": null
+    "moyenne": 76.5
   },
   {
     "id": 796,
@@ -13620,6 +13660,26 @@
     "moyenne": 17.39
   },
   {
+    "id": 1257,
+    "prenom": "Amir",
+    "nom": "Hattouma",
+    "nationalite": "FRA",
+    "poste": "PIL",
+    "poste_secondaire": null,
+    "poste_tertiaire": null,
+    "indisponible": false,
+    "taille_cm": null,
+    "poids_kg": null,
+    "pilier_cote": "3",
+    "dl_cote": null,
+    "club": "UBB",
+    "club_nom": "Union Bordeaux-Bègles",
+    "couleur_hex": "#5a2432",
+    "couleur2_hex": "#ffffff",
+    "valeur": "0.09",
+    "moyenne": 36.53
+  },
+  {
     "id": 1166,
     "prenom": "Lenny",
     "nom": "Alifanety",
@@ -13867,7 +13927,7 @@
     "poste": "AIL",
     "poste_secondaire": null,
     "poste_tertiaire": null,
-    "indisponible": true,
+    "indisponible": false,
     "taille_cm": null,
     "poids_kg": null,
     "pilier_cote": null,
@@ -13957,7 +14017,7 @@
     "couleur_hex": "#272528",
     "couleur2_hex": "#bb0f20",
     "valeur": "0.05",
-    "moyenne": null
+    "moyenne": 43.66
   },
   {
     "id": 1185,

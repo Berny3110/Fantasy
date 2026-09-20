@@ -106,9 +106,9 @@
           "date": "2026-09-12T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade Aime Giral",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 43,
+          "scoreExt": 29,
+          "statut": "Result"
         },
         {
           "home": "Vannes",
@@ -118,9 +118,9 @@
           "date": "2026-09-12T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade de la Rabine",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 12,
+          "scoreExt": 26,
+          "statut": "Result"
         },
         {
           "home": "ASM Clermont Auvergne",
@@ -130,9 +130,9 @@
           "date": "2026-09-12T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade Marcel Michelin",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 25,
+          "scoreExt": 16,
+          "statut": "Result"
         },
         {
           "home": "Section Paloise",
@@ -142,9 +142,9 @@
           "date": "2026-09-12T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade du Hameau",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 70,
+          "scoreExt": 28,
+          "statut": "Result"
         },
         {
           "home": "Racing 92",
@@ -154,9 +154,9 @@
           "date": "2026-09-12T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade Dominique Duvauchelle",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 31,
+          "scoreExt": 48,
+          "statut": "Result"
         },
         {
           "home": "RC Toulon",
@@ -166,9 +166,9 @@
           "date": "2026-09-12T19:00:00+0000",
           "heure": "21:00:00",
           "stade": "Stade Mayol",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 20,
+          "scoreExt": 21,
+          "statut": "Result"
         },
         {
           "home": "Stade Toulousain",
@@ -178,9 +178,9 @@
           "date": "2026-09-13T19:05:00+0000",
           "heure": "21:05:00",
           "stade": "Stade Ernest-Wallon",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 48,
+          "scoreExt": 12,
+          "statut": "Result"
         }
       ]
     },
@@ -198,9 +198,9 @@
           "date": "2026-09-19T12:30:00+0000",
           "heure": "14:30:00",
           "stade": "Stade Pierre Fabre",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 29,
+          "scoreExt": 27,
+          "statut": "Result"
         },
         {
           "home": "Bayonne",
@@ -210,9 +210,9 @@
           "date": "2026-09-19T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade Jean Dauger",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 46,
+          "scoreExt": 24,
+          "statut": "Result"
         },
         {
           "home": "Stade Rochelais",
@@ -222,9 +222,9 @@
           "date": "2026-09-19T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Stade Marcel-Deflandre",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 10,
+          "scoreExt": 20,
+          "statut": "Result"
         },
         {
           "home": "Lyon",
@@ -234,9 +234,9 @@
           "date": "2026-09-19T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Matmut Stadium de Gerland",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 51,
+          "scoreExt": 25,
+          "statut": "Result"
         },
         {
           "home": "Montpellier Herault Rugby",
@@ -246,9 +246,9 @@
           "date": "2026-09-19T14:35:00+0000",
           "heure": "16:35:00",
           "stade": "Septeo Stadium",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 50,
+          "scoreExt": 13,
+          "statut": "Result"
         },
         {
           "home": "Vannes",
@@ -258,9 +258,9 @@
           "date": "2026-09-19T19:00:00+0000",
           "heure": "21:00:00",
           "stade": "Roazhon Park",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 23,
+          "scoreExt": 29,
+          "statut": "Result"
         },
         {
           "home": "Union Bordeaux-Begles",
@@ -325,7 +325,7 @@
           "awayCode": "AB",
           "date": "2026-09-26T14:35:00+0000",
           "heure": "16:35:00",
-          "stade": "Paris La Defense Arena",
+          "stade": "Stade Dominique Duvauchelle",
           "scoreDom": null,
           "scoreExt": null,
           "statut": "Fixture"
@@ -462,29 +462,30 @@
     },
     "J6": {
       "dates": [
-        "2026-10-10"
+        "2026-10-10",
+        "2026-10-11"
       ],
       "matches": [
         {
-          "home": "USAP",
-          "away": "Vannes",
-          "homeCode": "USAP",
-          "awayCode": "RCV",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
-          "stade": "Stade Aime Giral",
+          "home": "Stade Francais Paris",
+          "away": "Montpellier Herault Rugby",
+          "homeCode": "SFP",
+          "awayCode": "MHR",
+          "date": "2026-10-10T12:30:00+0000",
+          "heure": "14:30:00",
+          "stade": "Stade Jean Bouin",
           "scoreDom": null,
           "scoreExt": null,
           "statut": "Fixture"
         },
         {
-          "home": "ASM Clermont Auvergne",
-          "away": "Union Bordeaux-Begles",
-          "homeCode": "ASM",
-          "awayCode": "UBB",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
-          "stade": "Stade Marcel Michelin",
+          "home": "USAP",
+          "away": "Vannes",
+          "homeCode": "USAP",
+          "awayCode": "RCV",
+          "date": "2026-10-10T14:35:00+0000",
+          "heure": "16:35:00",
+          "stade": "Stade Aime Giral",
           "scoreDom": null,
           "scoreExt": null,
           "statut": "Fixture"
@@ -494,21 +495,9 @@
           "away": "Stade Rochelais",
           "homeCode": "LOU",
           "awayCode": "SR",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
+          "date": "2026-10-10T14:35:00+0000",
+          "heure": "16:35:00",
           "stade": "Matmut Stadium de Gerland",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
-        },
-        {
-          "home": "Stade Francais Paris",
-          "away": "Montpellier Herault Rugby",
-          "homeCode": "SFP",
-          "awayCode": "MHR",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
-          "stade": "Stade Jean Bouin",
           "scoreDom": null,
           "scoreExt": null,
           "statut": "Fixture"
@@ -518,8 +507,8 @@
           "away": "Castres Olympique",
           "homeCode": "SP",
           "awayCode": "CO",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
+          "date": "2026-10-10T14:35:00+0000",
+          "heure": "16:35:00",
           "stade": "Stade du Hameau",
           "scoreDom": null,
           "scoreExt": null,
@@ -530,9 +519,21 @@
           "away": "Racing 92",
           "homeCode": "RCT",
           "awayCode": "R92",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
+          "date": "2026-10-10T14:35:00+0000",
+          "heure": "16:35:00",
           "stade": "Stade Mayol",
+          "scoreDom": null,
+          "scoreExt": null,
+          "statut": "Fixture"
+        },
+        {
+          "home": "ASM Clermont Auvergne",
+          "away": "Union Bordeaux-Begles",
+          "homeCode": "ASM",
+          "awayCode": "UBB",
+          "date": "2026-10-10T19:00:00+0000",
+          "heure": "21:00:00",
+          "stade": "Stade Marcel Michelin",
           "scoreDom": null,
           "scoreExt": null,
           "statut": "Fixture"
@@ -542,8 +543,8 @@
           "away": "Bayonne",
           "homeCode": "ST",
           "awayCode": "AB",
-          "date": "2026-10-10T00:00:00+0000",
-          "heure": "02:00:00",
+          "date": "2026-10-11T19:05:00+0000",
+          "heure": "21:05:00",
           "stade": "Stade Ernest-Wallon",
           "scoreDom": null,
           "scoreExt": null,

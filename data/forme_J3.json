@@ -1,0 +1,112 @@
+[
+  {
+    "id": 199,
+    "nom": "Taofifenua",
+    "prenom": "Romain",
+    "club": "R92",
+    "couleur": "#ffffff",
+    "poste": "DL",
+    "note": 89.56,
+    "note_prec": 62.71,
+    "delta": 26.9
+  },
+  {
+    "id": 252,
+    "nom": "Rey",
+    "prenom": "Jerome",
+    "club": "LOU",
+    "couleur": "#272528",
+    "poste": "PIL",
+    "note": 89.16,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 231,
+    "nom": "Cassang",
+    "prenom": "Charlie",
+    "club": "LOU",
+    "couleur": "#272528",
+    "poste": "DM",
+    "note": 89.15,
+    "note_prec": null,
+    "delta": null
+  },
+  {
+    "id": 243,
+    "nom": "Lorre",
+    "prenom": "Gabin",
+    "club": "LOU",
+    "couleur": "#272528",
+    "poste": "ARR",
+    "note": 88.48,
+    "note_prec": 60.48,
+    "delta": 28
+  },
+  {
+    "id": 900,
+    "nom": "Tilloles",
+    "prenom": "Baptiste",
+    "club": "AB",
+    "couleur": "#6dbce3",
+    "poste": "DM",
+    "note": 88.18,
+    "note_prec": 69.26,
+    "delta": 18.9
+  },
+  {
+    "id": 910,
+    "nom": "Capilla",
+    "prenom": "Esteban",
+    "club": "AB",
+    "couleur": "#6dbce3",
+    "poste": "TL",
+    "note": 88.04,
+    "note_prec": 67.03,
+    "delta": 21
+  },
+  {
+    "id": 286,
+    "nom": "Simmonds",
+    "prenom": "Sam",
+    "club": "LOU",
+    "couleur": "#272528",
+    "poste": "N8",
+    "note": 87.95,
+    "note_prec": 75.3,
+    "delta": 12.7
+  },
+  {
+    "id": 990,
+    "nom": "Verhaeghe",
+    "prenom": "Florian",
+    "club": "MHR",
+    "couleur": "#18264d",
+    "poste": "DL",
+    "note": 87.06,
+    "note_prec": 78.38,
+    "delta": 8.7
+  },
+  {
+    "id": 1154,
+    "nom": "Watson",
+    "prenom": "Hamish",
+    "club": "CO",
+    "couleur": "#093ca9",
+    "poste": "TL",
+    "note": 86.63,
+    "note_prec": 69.96,
+    "delta": 16.7
+  },
+  {
+    "id": 664,
+    "nom": "Arata",
+    "prenom": "Santiago",
+    "club": "CO",
+    "couleur": "#093ca9",
+    "poste": "DM",
+    "note": 85.68,
+    "note_prec": 83.19,
+    "delta": 2.5
+  }
+]
