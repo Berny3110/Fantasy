@@ -3,7 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import { exec } from 'child_process';
 
-const PORT = process.env.PORT || 3000;
+const PORT = 3000;
+const HOST = '0.0.0.0';
 const ROOT = process.cwd();
 
 const MIME_TYPES = {
@@ -12,6 +13,7 @@ const MIME_TYPES = {
   '.mjs': 'application/javascript; charset=utf-8',
   '.css': 'text/css; charset=utf-8',
   '.json': 'application/json; charset=utf-8',
+  '.webmanifest': 'application/manifest+json; charset=utf-8',
   '.png': 'image/png',
   '.jpg': 'image/jpeg',
   '.svg': 'image/svg+xml',
@@ -56,19 +58,24 @@ const server = http.createServer((req, res) => {
 
     const ext = path.extname(fullPath).toLowerCase();
     const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-
-    res.writeHead(200, {
+    const headers = {
       'Content-Type': contentType,
-      'Cache-Control': 'no-store'
-    });
+      'Cache-Control': ext === '.html' || ext === '.js' || fullPath.endsWith('sw.js') ? 'no-cache' : 'no-store'
+    };
+
+    if (fullPath.endsWith('sw.js')) {
+      headers['Service-Worker-Allowed'] = '/';
+    }
+
+    res.writeHead(200, headers);
 
     const stream = fs.createReadStream(fullPath);
     stream.pipe(res);
   });
 });
 
-server.listen(PORT, () => {
-  console.log(`\n🏉 Serveur Le P'tit Buro démarré sur : http://localhost:${PORT}`);
+server.listen(PORT, HOST, () => {
+  console.log(`\n🏉 Serveur démarré sur : http://${HOST}:${PORT}`);
   console.log(`Appuyez sur Ctrl+C pour arrêter le serveur.\n`);
 });
 

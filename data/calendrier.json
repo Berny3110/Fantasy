@@ -270,9 +270,9 @@
           "date": "2026-09-20T19:05:00+0000",
           "heure": "21:05:00",
           "stade": "Stade Chaban-Delmas",
-          "scoreDom": null,
-          "scoreExt": null,
-          "statut": "Fixture"
+          "scoreDom": 40,
+          "scoreExt": 10,
+          "statut": "Result"
         }
       ]
     },

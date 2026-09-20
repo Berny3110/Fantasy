@@ -139,60 +139,101 @@ export async function loadDefaultData() {
   state.calendrierLoadStatus = 'loading';
   try {
     // 1. Déterminer la configuration active
-    let activeMeta = { journee: 2, playersFile: 'players_J2.json', feuillesFile: 'feuilles_J2.json', formeFile: 'forme_J1.json', calendrierFile: 'calendrier.json' };
+    let activeMeta = { journee: 3, playersFile: 'players_J3.json', feuillesFile: 'feuilles_J3.json', formeFile: 'forme_J3.json', calendrierFile: 'calendrier.json' };
     try {
       const metaRes = await fetch('./data/active.json', { cache: 'no-store' });
       if (metaRes.ok) activeMeta = await metaRes.json();
     } catch(e) {}
 
-    state.journee = activeMeta.journee || 2;
+    state.journee = activeMeta.journee || 3;
     if (activeMeta.budget) {
       state.budget = parseFloat(activeMeta.budget);
     }
 
     // 2. Charger le calendrier
-    const calPath = `./data/${activeMeta.calendrierFile || 'calendrier.json'}`;
-    const calRes = await fetch(calPath, { cache: 'no-store' });
-    if (calRes.ok) {
-      const calData = await calRes.json();
-      importCalendrier(calData);
-      state.calendrierSource = `défaut (${calPath})`;
-      state.calendrierLoadStatus = 'ok';
-      state.calendrierLoadError = null;
-    }
-
-    // 3. Charger les joueurs
-    const playersPath = `./data/${activeMeta.playersFile || 'players_J2.json'}`;
-    const plRes = await fetch(playersPath, { cache: 'no-store' });
-    if (plRes.ok) {
-      const plData = await plRes.json();
-      importPlayers(plData, false);
-    }
-
-    // 4. Charger les feuilles
-    const feuillesPath = `./data/${activeMeta.feuillesFile || 'feuilles_J2.json'}`;
-    try {
-      const fRes = await fetch(feuillesPath, { cache: 'no-store' });
-      if (fRes.ok) {
-        const fData = await fRes.json();
-        const entries = fData.joueurs && typeof fData.joueurs === 'object' ? fData.joueurs : fData;
-        if (entries && Object.keys(entries).length > 0) {
-          importFeuilles(entries);
-        } else {
-          state.feuillesLoaded = false;
+    const calCandidates = [activeMeta.calendrierFile, 'calendrier.json'].filter(Boolean);
+    for (const calFile of calCandidates) {
+      try {
+        const calPath = `./data/${calFile}`;
+        const calRes = await fetch(calPath, { cache: 'no-store' });
+        if (calRes.ok) {
+          const calData = await calRes.json();
+          importCalendrier(calData);
+          state.calendrierSource = `défaut (${calPath})`;
+          state.calendrierLoadStatus = 'ok';
+          state.calendrierLoadError = null;
+          break;
         }
-      }
-    } catch(e) {}
+      } catch (e) {}
+    }
 
-    // 5. Charger la forme
-    const formePath = `./data/${activeMeta.formeFile || 'forme_J1.json'}`;
-    try {
-      const formRes = await fetch(formePath, { cache: 'no-store' });
-      if (formRes.ok) {
-        const formData = await formRes.json();
-        importForme(formData, 1);
-      }
-    } catch(e) {}
+    // 3. Charger les joueurs avec replis automatiques (J3, J2, J1)
+    const playersCandidates = [
+      activeMeta.playersFile,
+      `players_J${state.journee}.json`,
+      'players_J3.json',
+      'players_J2.json',
+      'players_J1.json'
+    ].filter(Boolean);
+
+    for (const plFile of playersCandidates) {
+      try {
+        const plPath = `./data/${plFile}`;
+        const plRes = await fetch(plPath, { cache: 'no-store' });
+        if (plRes.ok) {
+          const plData = await plRes.json();
+          if (Array.isArray(plData) && plData.length > 0) {
+            importPlayers(plData, false);
+            break;
+          }
+        }
+      } catch (e) {}
+    }
+
+    // 4. Charger les feuilles de match avec replis
+    const feuillesCandidates = [
+      activeMeta.feuillesFile,
+      `feuilles_J${state.journee}.json`,
+      'feuilles_J3.json',
+      'feuilles_J2.json',
+      'feuilles_J1.json'
+    ].filter(Boolean);
+
+    for (const fFile of feuillesCandidates) {
+      try {
+        const fPath = `./data/${fFile}`;
+        const fRes = await fetch(fPath, { cache: 'no-store' });
+        if (fRes.ok) {
+          const fData = await fRes.json();
+          const entries = fData.joueurs && typeof fData.joueurs === 'object' ? fData.joueurs : fData;
+          if (entries && Object.keys(entries).length > 0) {
+            importFeuilles(entries);
+            break;
+          }
+        }
+      } catch (e) {}
+    }
+
+    // 5. Charger la forme avec replis
+    const formeCandidates = [
+      activeMeta.formeFile,
+      `forme_J${state.journee}.json`,
+      'forme_J3.json',
+      'forme_J2.json',
+      'forme_J1.json'
+    ].filter(Boolean);
+
+    for (const formFile of formeCandidates) {
+      try {
+        const formPath = `./data/${formFile}`;
+        const formRes = await fetch(formPath, { cache: 'no-store' });
+        if (formRes.ok) {
+          const formData = await formRes.json();
+          importForme(formData, state.journee);
+          break;
+        }
+      } catch (e) {}
+    }
 
     return state.imported;
   } catch (err) {

@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Background Gradient: Deep Black to Dark Emerald -->
+    <radialGradient id="baseBg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#0a1d14"/>
+      <stop offset="70%" stop-color="#040c08"/>
+      <stop offset="100%" stop-color="#000302"/>
+    </radialGradient>
+
+    <!-- Card Surface Gradient -->
+    <linearGradient id="cardSurface" x1="20%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#113022"/>
+      <stop offset="50%" stop-color="#0b2218"/>
+      <stop offset="100%" stop-color="#06160f"/>
+    </linearGradient>
+
+    <!-- Metallic Gold Gradient -->
+    <linearGradient id="goldBevel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff1ba"/>
+      <stop offset="25%" stop-color="#dfb152"/>
+      <stop offset="50%" stop-color="#f8dc81"/>
+      <stop offset="75%" stop-color="#c59231"/>
+      <stop offset="100%" stop-color="#e9c46a"/>
+    </linearGradient>
+
+    <!-- Gold Text Extrusion Gradient -->
+    <linearGradient id="gold3d" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe396"/>
+      <stop offset="40%" stop-color="#d9a53d"/>
+      <stop offset="100%" stop-color="#8a6117"/>
+    </linearGradient>
+
+    <!-- Rugby Ball Surface -->
+    <radialGradient id="ballShade" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#1d543b"/>
+      <stop offset="60%" stop-color="#0d3121"/>
+      <stop offset="100%" stop-color="#05170f"/>
+    </radialGradient>
+
+    <!-- Honeycomb Pattern -->
+    <pattern id="hexGrid" width="32" height="55.4" patternUnits="userSpaceOnUse" patternTransform="scale(0.8)">
+      <path d="M16,0 L32,9.24 L32,27.7 L16,36.95 L0,27.7 L0,9.24 Z M16,55.4 L32,46.18 L32,27.7 L16,36.95 L0,27.7 L0,46.18 Z"
+            fill="none" stroke="#1b4d36" stroke-width="1.2" stroke-opacity="0.3"/>
+    </pattern>
+
+    <!-- Drop Shadows -->
+    <filter id="badgeShadow" x="-15%" y="-15%" width="130%" height="135%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000000" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+
+    <filter id="ballShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="10" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+
+  <!-- Deep Canvas -->
+  <rect width="512" height="512" rx="100" fill="url(#baseBg)"/>
+
+  <!-- Main Beveled Card / Badge -->
+  <g filter="url(#badgeShadow)">
+    <!-- Outer Card Shell in Dark Green -->
+    <rect x="56" y="46" width="400" height="420" rx="60" fill="#081e14" stroke="#05140d" stroke-width="4"/>
+    
+    <!-- Outer Gold Border -->
+    <rect x="64" y="54" width="384" height="404" rx="52" fill="none" stroke="url(#goldBevel)" stroke-width="10"/>
+    
+    <!-- Inner Recessed Plate -->
+    <rect x="74" y="64" width="364" height="384" rx="44" fill="url(#cardSurface)" stroke="#06170e" stroke-width="3"/>
+  </g>
+
+  <!-- Hexagonal Honeycomb Texture on Plate -->
+  <rect x="76" y="66" width="360" height="380" rx="42" fill="url(#hexGrid)" opacity="0.85"/>
+
+  <!-- Upward Circuit Arrow Accents (Right Side) -->
+  <g stroke="url(#goldBevel)" stroke-width="2" fill="none" opacity="0.65">
+    <path d="M 370 230 L 370 160 L 385 140"/>
+    <polyline points="375,152 385,140 397,152" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="375,164 385,152 397,164" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="375,176 385,164 397,176" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="370" cy="230" r="3.5" fill="#dfb152"/>
+    <circle cx="340" cy="260" r="3.5" fill="#dfb152"/>
+    <path d="M 340 260 L 356 260 L 370 240"/>
+  </g>
+
+  <!-- Circuit Accents (Left Side) -->
+  <g stroke="url(#goldBevel)" stroke-width="1.8" fill="none" opacity="0.45">
+    <path d="M 130 240 L 145 220 L 145 190"/>
+    <circle cx="130" cy="240" r="3" fill="#dfb152"/>
+    <circle cx="145" cy="190" r="3" fill="#dfb152"/>
+  </g>
+
+  <!-- 3D Emerald & Gold Rugby Ball -->
+  <g transform="translate(256, 195) rotate(-28)" filter="url(#ballShadow)">
+    <!-- Ball Body -->
+    <ellipse cx="0" cy="0" rx="88" ry="54" fill="url(#ballShade)" stroke="url(#goldBevel)" stroke-width="3.5"/>
+
+    <!-- Gold Center Seam Ribbon -->
+    <ellipse cx="0" cy="0" rx="88" ry="12" fill="none" stroke="url(#goldBevel)" stroke-width="4.5"/>
+    <ellipse cx="0" cy="0" rx="88" ry="3" fill="none" stroke="#fff1ba" stroke-width="1.5" opacity="0.8"/>
+
+    <!-- Left Gold Ribbed Cap -->
+    <path d="M -60 -36 C -80 -20, -88 -5, -88 0 C -88 5, -80 20, -60 36 Z" fill="url(#gold3d)" stroke="#fff1ba" stroke-width="1"/>
+    <path d="M -68 -30 C -82 -15, -85 0, -85 0" stroke="#7a5410" stroke-width="2" fill="none"/>
+    <path d="M -75 -20 C -85 -5, -85 0, -85 0" stroke="#7a5410" stroke-width="2" fill="none"/>
+
+    <!-- Right Gold Ribbed Cap -->
+    <path d="M 60 -36 C 80 -20, 88 -5, 88 0 C 88 5, 80 20, 60 36 Z" fill="url(#gold3d)" stroke="#fff1ba" stroke-width="1"/>
+    <path d="M 68 -30 C 82 -15, 85 0, 85 0" stroke="#7a5410" stroke-width="2" fill="none"/>
+    <path d="M 75 -20 C 85 -5, 85 0, 85 0" stroke="#7a5410" stroke-width="2" fill="none"/>
+
+    <!-- Ball Circuit Board Traces (Gold Tracks) -->
+    <g stroke="url(#goldBevel)" stroke-width="2.2" fill="none">
+      <path d="M -45 -18 L -20 -18 L 0 -32 L 35 -32"/>
+      <circle cx="-45" cy="-18" r="3" fill="#ffe396"/>
+      <circle cx="35" cy="-32" r="3" fill="#ffe396"/>
+
+      <path d="M -30 18 L 0 18 L 20 32 L 48 32"/>
+      <circle cx="-30" cy="18" r="3" fill="#ffe396"/>
+      <circle cx="48" cy="32" r="3" fill="#ffe396"/>
+
+      <path d="M -15 -5 L 15 -5 L 30 -16"/>
+      <circle cx="-15" cy="-5" r="2.5" fill="#ffe396"/>
+      <circle cx="30" cy="-16" r="2.5" fill="#ffe396"/>
+    </g>
+  </g>
+
+  <!-- FT14 3D Golden Typography -->
+  <g filter="url(#textGlow)">
+    <!-- 3D Extrusion Layers (Dark Bronze Shadows underneath) -->
+    <text x="256" y="360" text-anchor="middle"
+          font-family="'Oswald', 'Impact', sans-serif" font-size="94" font-weight="900"
+          letter-spacing="5" fill="#4d3408">FT14</text>
+    <text x="256" y="357" text-anchor="middle"
+          font-family="'Oswald', 'Impact', sans-serif" font-size="94" font-weight="900"
+          letter-spacing="5" fill="#7a5410">FT14</text>
+    <text x="256" y="354" text-anchor="middle"
+          font-family="'Oswald', 'Impact', sans-serif" font-size="94" font-weight="900"
+          letter-spacing="5" fill="#b88323">FT14</text>
+
+    <!-- Top Metallic Face -->
+    <text x="256" y="351" text-anchor="middle"
+          font-family="'Oswald', 'Impact', sans-serif" font-size="94" font-weight="900"
+          letter-spacing="5" fill="url(#gold3d)" stroke="#fff3c4" stroke-width="1.2">FT14</text>
+  </g>
+
+  <!-- Elegant Golden Divider Line with Diamond & Dots -->
+  <g stroke="url(#goldBevel)" stroke-width="2.5" fill="none">
+    <line x1="140" y1="382" x2="236" y2="382" stroke-linecap="round"/>
+    <line x1="276" y1="382" x2="372" y2="382" stroke-linecap="round"/>
+  </g>
+  <!-- Center Diamond & Accent Dots -->
+  <polygon points="256,375 263,382 256,389 249,382" fill="url(#goldBevel)"/>
+  <circle cx="140" cy="382" r="2.5" fill="#dfb152"/>
+  <circle cx="372" cy="382" r="2.5" fill="#dfb152"/>
+</svg>
+

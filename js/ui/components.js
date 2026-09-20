@@ -2,19 +2,21 @@ import { state, SLOTS, BENCH_SLOTS, ALL_SLOTS, POSTE_LABELS, byId } from '../sta
 import { tierOf, tierLabel, playerScore, slotAdjustedScore } from '../engine/scoring.js';
 import { totalCost, slotViolation, slotInfo, usedIds, isEligible, slotDef } from '../engine/optimizer.js';
 import { resolveClubCode, todayStr } from '../services/parser.js';
+import { pwa } from '../pwa.js';
 
 export function fmtM(n){ return (Math.round(n*100)/100).toFixed(2); }
 
 export function renderImportScreen(){
   return `<div class="import-screen">
-    <div class="crest">PB</div>
+    <img src="/icons/icon-192.png" alt="FT14" style="width:72px;height:72px;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,0.6), 0 0 0 1px rgba(223,177,82,0.4);margin:0 auto 16px;display:block;">
     <h1 class="display" style="font-size:24px;margin:0 0 6px;">Assistant Week-end</h1>
     <p style="color:var(--chalk-dim);font-size:13px;line-height:1.6;">
-      Les données sont désormais synchronisées automatiquement dans le dossier <span class="mono">data/</span> via la commande <span class="mono">npm run sync</span>.
+      Les données sont synchronisées automatiquement dans le dossier <span class="mono">data/</span> via la commande <span class="mono">npm run sync</span>.
     </p>
     <div style="text-align:left;background:rgba(255,255,255,0.05);border-radius:8px;padding:12px;font-size:12px;color:var(--chalk-soft);margin:12px 0;">
-      💡 <strong>Chargement direct :</strong> Lancez l'application via un serveur local (ex. <span class="mono">npm start</span> ou Live Server) pour charger automatiquement l'effectif et le calendrier sans aucune manipulation.
+      💡 <strong>Application PWA :</strong> Cette application fonctionne à 100% hors-ligne une fois chargée.
     </div>
+    ${pwa.canInstall ? `<button class="pwa-btn" id="pwaImportInstallBtn" style="margin-bottom:12px;width:100%;justify-content:center;"><span>📲</span> Installer l'application sur cet appareil</button>` : ''}
     <div class="dropzone" id="dropzone">
       <strong>Ou glisse un fichier JSON ici (secours)</strong>
       <p>effectif, feuille de match, calendrier ou forme</p>
@@ -39,6 +41,7 @@ export function renderHeader(){
   ];
   return `<header class="scoreboard">
     <div class="sb-inner">
+      <img src="/icons/icon-192.png" alt="FT14" style="width:38px;height:38px;border-radius:8px;border:1px solid rgba(223,177,82,0.35);box-shadow:0 2px 8px rgba(0,0,0,0.5);flex:none;">
       <div class="badge-jour">J${state.journee}</div>
       <div class="sb-title">
         <span class="eyebrow">Le P'tit Buro · Fantasy</span>
@@ -49,6 +52,9 @@ export function renderHeader(){
         <div class="track"><div class="fill ${over?'over':''}" style="width:${pct}%"></div></div>
         <div class="num mono">${fmtM(used)} <span class="dim">/ ${fmtM(state.budget)} M€</span></div>
       </div>
+      <button class="pwa-btn ${pwa.canInstall ? '' : 'hidden'}" id="pwaInstallBtn" title="Installer l'application sur votre appareil">
+        <span>📲</span> Installer
+      </button>
       <button class="btn-reset" id="reimportBtn">Changer de fichier</button>
     </div>
     <nav class="tabs">
@@ -223,7 +229,7 @@ export function renderEffectif(){
       <button class="btn primary" id="autoFillBtn">⚡ Remplir automatiquement (pépites)</button>
       <button class="btn ghost" id="suggestCapBtn">Suggérer capitaine</button>
       <button class="btn ghost" id="suggestImpBtn">Suggérer impact player</button>
-      <button class="btn danger" id="clearSquadBtn">Vider l'équipe</button>
+      <button class="btn danger" id="clearSquadBtn" onclick="window.clearSquad && window.clearSquad()">Vider l'équipe</button>
       <div class="grow"></div>
       <label style="display:flex;align-items:center;gap:6px;font-size:12px;color:var(--chalk-dim);">
         <input type="checkbox" id="riskyToggle" ${state.allowRisky?'checked':''}> Autoriser les joueurs risqués
@@ -233,11 +239,13 @@ export function renderEffectif(){
       </label>` : ''}
     </div>
     <div class="pitch-wrap" id="pitchWrap">
-      <div class="pline" style="top:50%;"></div>
-      <div class="pline dashed" style="top:22%;"></div>
-      <div class="pline dashed" style="top:78%;"></div>
-      <div class="try-zone" style="top:0;"></div>
-      <div class="try-zone" style="bottom:0;"></div>
+      <div class="try-zone top"></div>
+      <div class="pline try-line" style="top:7%;"></div>
+      <div class="pline dashed" style="top:27%;"></div>
+      <div class="pline midline" style="top:50%;"></div>
+      <div class="pline dashed" style="top:73%;"></div>
+      <div class="pline try-line" style="top:93%;"></div>
+      <div class="try-zone bottom"></div>
       ${SLOTS.map(s=>renderSlot(s)).join('')}
     </div>
     <div class="bench-row">
@@ -273,31 +281,47 @@ export function renderSlot(s){
 
   const home = p ? state.calendrier[p.club] : null;
   const homeIco = home==='D' ? '🏠' : (home==='E' ? '✈️' : '');
-  let feuilleBadge = '';
+  
+  let feuilleTag = '';
   if(p && state.feuillesLoaded){
-    if(!p.surFeuille) feuilleBadge = `<div style="font-size:8.5px;color:var(--try-red-soft);">Hors feuille</div>`;
-    else if(p.titulaireReel) feuilleBadge = `<div style="font-size:8.5px;color:var(--chalk-dim);">Titulaire réel n°${p.feuilleNum}</div>`;
-    else feuilleBadge = `<div style="font-size:8.5px;color:var(--chalk-dim);">Remplaçant réel n°${p.feuilleNum}</div>`;
+    if(!p.surFeuille) feuilleTag = `<span class="feuille-tag off" title="Hors feuille de match">HORS</span>`;
+    else if(p.titulaireReel) feuilleTag = `<span class="feuille-tag tit" title="Titulaire réel n°${p.feuilleNum}">T#${p.feuilleNum}</span>`;
+    else feuilleTag = `<span class="feuille-tag remp" title="Remplaçant réel n°${p.feuilleNum}">R#${p.feuilleNum}</span>`;
   }
+
+  const actions = p ? `
+    <div class="slot-actions">
+      ${!bench?`<button class="micro-btn cap ${isCap?'active':''}" data-action="cap" data-slot="${s.key}" title="Capitaine (x2)">C</button>`:''}
+      ${bench?`<button class="micro-btn imp ${isImp?'active':''}" data-action="imp" data-slot="${s.key}" title="Impact player (x2)">IP</button>`:''}
+      <button class="micro-btn lock ${locked?'active':''}" data-action="lock" data-slot="${s.key}" title="${locked?'Déverrouiller':'Verrouiller'}">🔒</button>
+      <button class="micro-btn clear" data-action="clear" data-slot="${s.key}" title="Retirer">✕</button>
+    </div>` : `
+    <div class="slot-actions empty-actions">
+      <span class="empty-hint">Libre</span>
+    </div>`;
 
   return `<div class="slot ${p?'filled':'empty'}" data-slot="${s.key}" style="${posStyle}" title="${violation||info||''}">
     ${flags}
     <div class="num">${s.num||(s.group==='AVANT'?'R1':'R2')}</div>
     <div class="card" data-slot-open="${s.key}">
       ${p ? `
-        <div class="pname">${p.nom}</div>
-        <div class="pmeta"><span>${p.club}</span><span>${fmtM(p.valeur)}M</span>${homeIco}</div>
-        <div class="tier tier-${tier}">${tierLabel(tier)}</div>
-        ${feuilleBadge}
-      ` : `<div>${s.label}</div><div style="font-size:9px;">Choisir…</div>`}
+        <div class="pname" title="${p.prenom} ${p.nom}">${p.nom}</div>
+        <div class="pmeta">
+          <span class="club">${p.club}</span>
+          <span class="sep">·</span>
+          <span class="cost">${fmtM(p.valeur)}M</span>
+          ${homeIco ? `<span class="loc">${homeIco}</span>` : ''}
+        </div>
+        <div class="pstatus">
+          <span class="tier tier-${tier}">${tierLabel(tier)}</span>
+          ${feuilleTag}
+        </div>
+      ` : `
+        <div class="empty-pos">${s.label}</div>
+        <div class="empty-cta"><span class="empty-plus">+</span> Choisir</div>
+      `}
     </div>
-    ${p ? `
-    <div style="display:flex;gap:3px;justify-content:center;margin-top:3px;">
-      ${!bench?`<button class="btn sm ghost" data-action="cap" data-slot="${s.key}" title="Capitaine">C</button>`:''}
-      ${bench?`<button class="btn sm ghost" data-action="imp" data-slot="${s.key}" title="Impact player">IP</button>`:''}
-      <button class="btn sm ghost" data-action="lock" data-slot="${s.key}" title="Verrouiller">🔒</button>
-      <button class="btn sm danger" data-action="clear" data-slot="${s.key}" title="Vider">✕</button>
-    </div>` : ''}
+    ${actions}
   </div>`;
 }
 

@@ -3,6 +3,7 @@ import { recomputeRanks } from '../engine/scoring.js';
 import { autoFill, suggestCaptain, suggestImpact } from '../engine/optimizer.js';
 import { handleImportedJSON, exportState, applyCalendrierForJournee } from '../services/parser.js';
 import { renderImportScreen, renderHeader, renderTab, renderFooter, renderPicker } from './components.js';
+import { pwa } from '../pwa.js';
 
 export function render(){
   const app = document.getElementById('app');
@@ -48,9 +49,14 @@ export function attachImportHandlers(){
   });
   const cb = document.getElementById('continueBtn');
   if(cb) cb.onclick = ()=>{ state.imported = true; render(); };
+  const pwaImportBtn = document.getElementById('pwaImportInstallBtn');
+  if(pwaImportBtn) pwaImportBtn.onclick = () => pwa.install();
 }
 
 export function attachGlobalHandlers(){
+  const pwaBtn = document.getElementById('pwaInstallBtn');
+  if(pwaBtn) pwaBtn.onclick = () => pwa.install();
+
   const reimport = document.getElementById('reimportBtn');
   if(reimport) reimport.onclick = ()=>{ if(confirm("Repartir de l'écran d'import ? Ta composition en cours sera perdue.")){ Object.assign(state, {imported:false, players:[], squad:{}, locked:{}, captainSlot:null, impactSlot:null}); render(); } };
 
@@ -173,13 +179,31 @@ function attachSemaineHandlers(){
   });
 }
 
+export function clearSquad(){
+  state.squad = {};
+  state.locked = {};
+  state.captainSlot = null;
+  state.impactSlot = null;
+  render();
+}
+if (typeof window !== 'undefined') {
+  window.clearSquad = clearSquad;
+}
+if (typeof document !== 'undefined') {
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('#clearSquadBtn');
+    if (btn) {
+      e.preventDefault();
+      clearSquad();
+    }
+  });
+}
+
 function attachEffectifHandlers(){
   const af = document.getElementById('autoFillBtn'); if(af) af.onclick = ()=>{ autoFill(); render(); };
   const sc = document.getElementById('suggestCapBtn'); if(sc) sc.onclick = ()=>{ suggestCaptain(); render(); };
   const si = document.getElementById('suggestImpBtn'); if(si) si.onclick = ()=>{ suggestImpact(); render(); };
-  const cs = document.getElementById('clearSquadBtn'); if(cs) cs.onclick = ()=>{
-    if(confirm('Vider toute la composition ?')){ state.squad={}; state.locked={}; state.captainSlot=null; state.impactSlot=null; render(); }
-  };
+  const cs = document.getElementById('clearSquadBtn'); if(cs) cs.onclick = (e)=>{ e.preventDefault(); clearSquad(); };
   const rk = document.getElementById('riskyToggle'); if(rk) rk.onchange = ()=>{ state.allowRisky = rk.checked; render(); };
   const hf = document.getElementById('horsFeuilleToggle'); if(hf) hf.onchange = ()=>{ state.allowHorsFeuille = hf.checked; render(); };
 

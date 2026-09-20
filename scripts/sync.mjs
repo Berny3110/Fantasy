@@ -24,7 +24,8 @@ function resolveToken() {
 
 const TOKEN = resolveToken();
 if (!TOKEN) {
-  console.error("⚠️ Aucun token trouvé. Renseignez votre token dans config.local.json ou via la variable d'environnement FANTASY_TOKEN.");
+  console.log("ℹ️ Aucun token trouvé (variable FANTASY_TOKEN ou config.local.json). Synchronisation API ignorée, utilisation des données locales existantes.");
+  process.exit(0);
 }
 
 const HEADERS = {
@@ -194,17 +195,26 @@ async function main() {
       await syncJournee(j);
     }
 
-    // Enregistrer la journée active dans data/active.json
-    saveJSON(path.join(DATA_DIR, 'active.json'), {
-      journee: detectedJ,
-      updatedAt: new Date().toISOString(),
-      playersFile: `players_J${detectedJ}.json`,
-      feuillesFile: `feuilles_J${detectedJ}.json`,
-      formeFile: `forme_J${detectedJ}.json`,
-      calendrierFile: 'calendrier.json',
-      budget: currentBudget
-    });
-    console.log(`\n✨ data/active.json mis à jour (Journée active = J${detectedJ}).`);
+    // Trouver la journée valide la plus récente avec un fichier joueurs existant
+    let effectiveJ = detectedJ;
+    while (effectiveJ > 1 && !fs.existsSync(path.join(DATA_DIR, `players_J${effectiveJ}.json`))) {
+      effectiveJ--;
+    }
+
+    if (fs.existsSync(path.join(DATA_DIR, `players_J${effectiveJ}.json`))) {
+      saveJSON(path.join(DATA_DIR, 'active.json'), {
+        journee: effectiveJ,
+        updatedAt: new Date().toISOString(),
+        playersFile: `players_J${effectiveJ}.json`,
+        feuillesFile: fs.existsSync(path.join(DATA_DIR, `feuilles_J${effectiveJ}.json`)) ? `feuilles_J${effectiveJ}.json` : null,
+        formeFile: fs.existsSync(path.join(DATA_DIR, `forme_J${effectiveJ}.json`)) ? `forme_J${effectiveJ}.json` : null,
+        calendrierFile: 'calendrier.json',
+        budget: currentBudget
+      });
+      console.log(`\n✨ data/active.json mis à jour (Journée active = J${effectiveJ}).`);
+    } else {
+      console.log(`\n⚠️ Aucun fichier de joueurs trouvé, data/active.json conservé.`);
+    }
   }
 
   console.log('\n🎉 Synchronisation terminée !');
