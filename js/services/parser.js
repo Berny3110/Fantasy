@@ -146,6 +146,9 @@ export async function loadDefaultData() {
     } catch(e) {}
 
     state.journee = activeMeta.journee || 2;
+    if (activeMeta.budget) {
+      state.budget = parseFloat(activeMeta.budget);
+    }
 
     // 2. Charger le calendrier
     const calPath = `./data/${activeMeta.calendrierFile || 'calendrier.json'}`;

@@ -1,6 +1,7 @@
 import http from 'http';
 import fs from 'fs';
 import path from 'path';
+import { exec } from 'child_process';
 
 const PORT = process.env.PORT || 3000;
 const ROOT = process.cwd();
@@ -19,6 +20,22 @@ const MIME_TYPES = {
 
 const server = http.createServer((req, res) => {
   let reqPath = decodeURIComponent(req.url.split('?')[0]);
+
+  // Route API pour déclencher la synchronisation
+  if (reqPath === '/api/sync') {
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    exec('node scripts/sync.mjs', (error, stdout, stderr) => {
+      if (error) {
+        console.error(`Erreur sync: ${error.message}`);
+        res.end(JSON.stringify({ success: false, error: error.message }));
+        return;
+      }
+      console.log('Synchronisation terminée (déclenchée via API).');
+      res.end(JSON.stringify({ success: true }));
+    });
+    return;
+  }
+
   if (reqPath === '/' || reqPath === '') reqPath = '/index.html';
 
   const fullPath = path.join(ROOT, reqPath);

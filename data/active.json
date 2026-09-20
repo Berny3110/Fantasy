@@ -1,8 +1,9 @@
 {
   "journee": 3,
-  "updatedAt": "2026-09-20T17:25:50.012Z",
+  "updatedAt": "2026-09-20T17:35:19.646Z",
   "playersFile": "players_J3.json",
   "feuillesFile": "feuilles_J3.json",
   "formeFile": "forme_J3.json",
-  "calendrierFile": "calendrier.json"
+  "calendrierFile": "calendrier.json",
+  "budget": 11.24
 }

@@ -159,7 +159,6 @@ async function main() {
   // 1. Calendrier complet
   await syncCalendrier();
 
-  // 2. Synchronisation de la J1 (historique) et de la J2 (active)
   // 2. Détermination de la journée active
   let detectedJ = 1;
   try {
@@ -174,14 +173,22 @@ async function main() {
     console.error('  ❌ Impossible de déterminer la journée active à partir du calendrier:', err.message);
   }
 
+  // 2.5 Fetch equipe (budget)
+  let currentBudget = 11.24;
+  try {
+    const compoData = await apiFetch('/compos/1');
+    if (compoData && compoData.equipe && compoData.equipe.budget) {
+      currentBudget = parseFloat(compoData.equipe.budget);
+      console.log(`  💰 Budget détecté : ${currentBudget} M€`);
+    }
+  } catch(e) {
+    console.error(`  ❌ Erreur récupération budget : ${e.message}`);
+  }
+
   // 3. Synchronisation
   if (targetJ) {
     await syncJournee(targetJ);
   } else {
-    // Synchronisation de l'historique J1
-    await syncJournee(1);
-    // Synchronisation de la journée active J2
-    await syncJournee(2);
     // Synchronisation de l'historique (J1) jusqu'à la journée active
     for (let j = 1; j <= detectedJ; j++) {
       await syncJournee(j);
@@ -189,18 +196,14 @@ async function main() {
 
     // Enregistrer la journée active dans data/active.json
     saveJSON(path.join(DATA_DIR, 'active.json'), {
-      journee: 2,
       journee: detectedJ,
       updatedAt: new Date().toISOString(),
-      playersFile: 'players_J2.json',
-      feuillesFile: 'feuilles_J2.json',
-      formeFile: 'forme_J1.json',
       playersFile: `players_J${detectedJ}.json`,
       feuillesFile: `feuilles_J${detectedJ}.json`,
       formeFile: `forme_J${detectedJ}.json`,
-      calendrierFile: 'calendrier.json'
+      calendrierFile: 'calendrier.json',
+      budget: currentBudget
     });
-    console.log('\n✨ data/active.json mis à jour (Journée active = J2).');
     console.log(`\n✨ data/active.json mis à jour (Journée active = J${detectedJ}).`);
   }
 
